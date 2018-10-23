@@ -1,0 +1,609 @@
+.container{
+    width: 1170px;
+}
+a:hover, a:focus{
+    color: #81af6e;
+}
+div.area {
+    min-height: 200px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.btn-slider {
+    width: 170px;
+    height: 50px;
+    padding: 15px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+.btn-blue {
+    background-color: #1D87E5;
+    color: #fff;
+}
+.btn-ash {
+    background-color: #9D9D9D;
+    color: #434343;
+}
+a.read-more-font-color {
+    color: #fff ;
+}
+a.read-more-font-color:hover {
+    color: #fff;
+}
+.web-deep-green {
+    background-color: #33A12B;
+}
+.web-green {
+    background-color: #68845C;
+    color: #ffffff;
+}
+.web-white {
+    background-color: #ffffff;
+    color: #000;
+}
+.web-light-green{
+    background-color: #81AF6E;
+}
+.padding-left-off {
+    padding-left: 0px;
+}
+.margin-top-bottom-off-50 {
+    margin-top: -50px;
+    margin-bottom: -50px;
+}
+.padding-top-65 {
+    padding-top: 65px;
+}
+div.area .header-content {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.header-content h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+.padding-left-20 {
+    padding-left: 20px;
+}
+.web-separator {
+    width: 100%;
+    height: 20px;
+}
+.equity {
+    padding-left: 20px;
+    min-height: 600px;
+    overflow: hidden;
+}
+.equity p {
+    font-size: 12px;
+    padding: 0 16px;
+    margin-bottom: 20px;
+}
+.web-circle {
+    border: 10px solid #68845c;
+    border-radius: 50%;
+    padding: 50px 0px;
+    color: #68845C;
+    margin: 0 10% 10%;
+}
+.fund-caption .amount {
+    font-size: 48px;
+    font-weight: bold;
+}
+.fund-caption .title {
+    font-size: 30px;
+    font-weight: bold;
+}
+.tree-graph-title {
+    display: inline-block;
+    width: 20%;
+    margin: 20px 15px 20px;
+    padding: 20px 10px;
+    border: 4px solid #68845C;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.profile-pic{
+    padding: 50px;
+    width: 100%;
+}
+.profile-text {
+    padding:50px;
+}
+.profile-text h1{
+    margin: 0px;
+}
+.leader-right {
+    margin-right: 12%;
+}
+.thumbnail .leader-caption {
+    padding: 9px;
+}
+.leader-caption .title {
+    font-size: 18px;
+    color: #ffffff;
+}
+.leader-caption .description {
+    font-size: 14px;
+    color: #ffffff;
+}
+.caption .name {
+    font-weight: bold;
+    font-size: 18px;
+}
+.caption .designation {
+    font-weight: bold;
+    font-size: 14px;
+}
+.home-contact {
+    font-weight: bold;
+    color: #ffffff;
+    padding: 40px 15px 40px 30px;
+    margin-bottom: 75px;
+    text-align: left;
+}
+.map-contact {
+    width: 100%;
+    height: 300px;
+    margin-bottom: 75px;
+}
+.home-social {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 40px 15px 75px 30px;
+    margin-bottom: 75px;
+    text-align: left;
+    height: 300px;
+}
+.home-social .list-inline{
+    margin-bottom: 25px;
+}
+.home-social .list-inline > li {
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+.home-contact h4, .home-social h4 {
+    margin-bottom: 10px;
+}
+.scroll-to-top {
+    right: 10px;
+}
+.scroll-to-top {
+    bottom: 10px;
+    display: none;
+    padding: 2px;
+    position: fixed;
+    right: 10px;
+    text-align: center;
+    z-index: 10001;
+}
+.scroll-to-top > i {
+    color: #ffffff;
+    display: inline-block;
+    font-size: 32px;
+    opacity: 0.7;
+}
+.imgSize a img.img-circle{
+    width: 100px;
+    height: 100px;
+}
+.imgSize a img.img-square{
+    width: 200px;
+    height: 260px;
+}
+.rightImgMargin{
+    margin-right: 48px;
+}
+
+.entre-icon {
+    width: 70px;
+    margin-bottom: 20px;
+}
+.entre-text {
+    margin-top: 25px;
+}
+
+.entre-hand-img {
+    width: 450px;
+    position: absolute;
+    right: 0px;
+}
+
+
+/*Responsive layout*/
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px) {
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+    div.area {
+        padding-bottom: 20px;
+    }
+    /*TOP MENU*/
+    .page-header.navbar .page-logo .logo-default{
+        width: 50%;
+    }
+    .page-header.navbar {
+        height: 50%;
+        min-height: 0px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        transition: all 0.4s ease 0s;
+    }
+    .page-header.navbar .page-logo {
+        height: 50%;
+        width: 100%;
+    }
+    .page-header.navbar #menu {
+        float: none;
+        height: auto;
+    }
+    .page-header.navbar #menu .navbar-nav > li.dropdown > .dropdown-toggle {
+        padding: 20px 0px 0px 45px;
+    }
+    .navbar-toggle {
+        margin-top: -40px;
+    }
+    /*TYPOGRAPHIC*/
+    body {
+        font-size: 12px;
+    }
+    .header-content h1 {
+        font-size: 18px;
+    }
+    p {
+        margin: 0 0 5px;
+    }
+    /*NEWSLETTER*/
+    .margin-top-bottom-off-50 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .equity {
+        min-height: 0px;
+    }
+    .padding-top-65 {
+        padding-top: 30px;
+    }
+    /*Inventus*/
+    .web-circle {
+        margin: 0 10% 5%;
+    }
+    .fund-caption {
+        margin-bottom: 10px;
+    }
+    .fund-caption .amount {
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .fund-caption .title {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    /*BANNER - SLIDER*/
+    .carousel-caption {
+        padding: 0px;
+    }
+    .carousel-caption h1 {
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+    .carousel-caption h1 .title {
+        font-size: 14px;
+    }
+    .carousel-caption h1 .des {
+        font-size: 12px;
+    }
+    /*PROFILE GALLERY*/
+    .thumbnail .leader-caption {
+        padding: 0px;
+        margin: 9px -4px;
+    }
+    .leader-caption p span {
+        font-size: 8px;
+    }
+    .leader-caption p strong {
+        font-size: 8px;
+    }
+    .imgSize a img.img-square {
+        width: 100%;
+        height: auto;
+    }
+    .rightImgMargin {
+        margin-right: 0px;
+    }
+    /*SOCIAL MEDIA*/
+    .home-social .list-inline > li {
+        display: inline-block;
+        padding-left: 20px;
+        padding-right: 30px;
+        padding-top: 10px;
+    }
+    /*footer*/
+    .page-footer .page-footer-inner {
+        font-size: 8px;
+    }
+    .page-footer .orbit {
+        height: 24px;
+        width: 44px;
+    }
+    /*Entrepreneur Zone*/
+    .entre-icon {
+        width: 40px;
+    }
+    .entre-text {
+        margin-top: 15px;
+    }
+    .entre-hand-img {
+        display: none;
+    }
+    /*Profile gallery details*/
+    .profile-pic{
+        padding-bottom: 20px;
+    }
+    .profile-text {
+        padding:0px 0px 10px 0px;
+        text-align: center;
+    }
+    .profile-text h1 {
+        font-size: 26px;
+        margin: 0px;
+    }
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+
+    .page-header.navbar .page-logo{
+        width: 27%;
+    }
+    .page-header.navbar #menu .navbar-nav > li.dropdown > .dropdown-toggle {
+        padding: 20px 10px 0px;
+        font-size: 12px;
+    }
+    /*TYPOGRAPHIC*/
+    .header-content h1 {
+        font-size: 20px;
+    }
+    .header-content h4 {
+        font-size: 12px;
+    }
+    p {
+        margin: 0 0 5px;
+    }
+    /*BANNER - SLIDER*/
+    .carousel-caption h1 .title {
+        font-size: 24px;
+    }
+    .carousel-caption h1 .des {
+        font-size: 16px;
+    }
+    /*PROFILE GALLERY*/
+    .rightImgMargin {
+        margin-right: 0px;
+    }
+    /*SOCIAL MEDIA*/
+    .home-social {
+        height: 180px;
+        margin-bottom: 0px;
+    }
+    /*Inventus*/
+    .web-circle {
+        margin: 0 10% 5%;
+    }
+    .fund-caption {
+        margin-bottom: 10px;
+    }
+    .fund-caption .amount {
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .fund-caption .title {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    /*Entrepreneur Zone*/
+    .entre-icon {
+        float: right;
+    }
+    .entre-text {
+        margin-top: 25px;
+    }
+    .entre-hand-img {
+        display: none;
+    }
+    /*Profile gallery details*/
+    .profile-text {
+        padding:50px 0px 0px 50px;
+    }
+    .profile-text h1 {
+        margin: 0px;
+        font-size: 24px;
+    }
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+    /* Styles */
+    .container {
+        width: 100%;
+    }
+
+}
+/**********
+iPad 3
+**********/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+
+}
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+    /* Styles */
+    .container{
+        width: 1170px;
+    }
+    .navbar-collapse {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+    /* Styles */
+    .container{
+        width: 1170px;
+    }
+    .navbar-collapse {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+}
+
+/* iPhone 5 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+    /* Styles */
+}
+
+/* iPhone 6 ----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+}
+
+/* iPhone 6+ ----------- */
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+    /* Styles */
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+}
+
+/* Samsung Galaxy S3 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+}
+
+/* Samsung Galaxy S4 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+}
+
+/* Samsung Galaxy S5 ----------- */
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+    /* Styles */
+    .container{
+        width: 100%;
+    }
+}

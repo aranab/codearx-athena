@@ -1,0 +1,3921 @@
+/***** CUSTOM RESPONSIVE CSS *****/
+/**************###***************/
+
+
+@media only screen and (min-width : 320px){
+
+/*========== INDEX-CSS-START ==========*/
+
+	
+	.page-sidebar .page-sidebar-menu > .cus-sidebar-search-wrapper{
+	    padding: 0;
+	}
+	.page-header.navbar .page-logo{
+		width: 87%;
+	}
+	.page-header.navbar .top-menu .navbar-nav{
+		margin: 2.5px 0;
+	}
+	.page-bar .page-breadcrumb {
+	    padding: 15px;
+	}
+	.page-inner-content-wrapper {
+	    padding: 0;
+	}
+	.mt-element-step .step-default .active {
+	    width: 48%;
+		margin: 0 1% 15px;
+	}
+	.portlet.light > .portlet-title > .caption > .caption-subject, 
+	.cus-portlet-light-bordered .caption > .caption-subject, 
+	.cus-chapter-caption span {
+	    font-size: 15px;
+	}
+	.portlet.light.portlet-fit > .portlet-title {
+	    padding: 0px 1px 5px;
+	    margin: 5px 17px 10px;
+	}
+	.portlet.light > .portlet-title {
+	    min-height: 45px;
+	}
+	.mt-element-step .step-default .mt-step-col {
+	    padding-top: 15px;
+	    padding-bottom: 15px;
+	}
+	.mt-element-step .step-default .mt-step-number{
+		margin: auto auto 5px;
+	}
+	.mt-element-step .step-default .active .mt-step-content {
+	    font-size: 10px;
+	}
+	.cus-bar-wrapper{
+        margin: 25px 0;
+        padding: 0px;
+		min-height: 405px;
+    }
+    .cus-page-bar {
+	    margin-bottom: 20px;
+	}
+    .cus-bar-type{
+        margin-right: 10px;
+        font-size: 10px;
+    }
+    .cus-best-sub-wrapper h3{
+        font-size: 19px;
+    }
+    .float-left {
+	    float: left;
+	}
+	.bar {
+	    margin: 0;
+	    height: 300px;
+	}
+	.bar-1 {
+	    height: 211px;
+	    margin-right: 3%;
+	    margin-top: 88px;
+	}
+	.bar-2 {
+	    height: 211px;
+	    margin-right: 3%;
+	    margin-top: 88px;
+	}
+    .bar-3 {
+	    height: 241px;
+	    margin-right: 3%;
+	    margin-top: 58px;
+	}
+	.bar-4 {
+	    height: 84px;
+	    margin-right: 3%;
+	    margin-top: 215px;
+	}
+	.bar-4 .in {
+	    height: 18px;
+	}
+	.avg-4 {
+	    margin: -13px auto;
+	}
+	.bar-5 {
+	    height: 105px;
+	    margin-right: 3%;
+	    margin-top: 194px;
+	}
+	.bar-5 .in{
+		height: 40px;
+	}
+	.avge-5 {
+	   	margin: 40px auto;
+	}
+	.bar-6 {
+	    height: 269px;
+	    margin-right: 3%;
+	    margin-top: 30px;
+	}
+	.bar-6 .in {
+	    height: 88px;
+	}
+	.avg-6 {
+	    margin: -35px auto;
+	}
+	.bar-7 {
+	    height: 105px;
+	    margin-right: 3%;
+	    margin-top: 194px;
+	}
+	.bar-7 .in{
+		height: 40px;
+	}
+	.avge-7 {
+	   	margin: 50px auto;
+	}
+	.bar-8 {
+	    height: 105px;
+	    margin-right: 3%;
+	    margin-top: 194px;
+	}
+	.bar-8 .in{
+		height: 40px;
+	}
+	.avg-8 {
+	    margin: -25px auto;
+	}
+	.bar-9 {
+	    height: 84px;
+	    margin-right: 3%;
+	    margin-top: 215px;
+	}
+	.avg-9 {
+	    margin: 5px auto;
+	}
+	.bar-10 {
+	    height: 135px;
+	    margin-right: 3%;
+	    margin-top: 164px;
+	}
+	.bar-10 .in{
+		height: 71px;
+	}
+	.avge-10 {
+	    margin: 78px auto;
+	}
+	.bar-11 {
+	    height: 105px;
+	    margin-right: 3%;
+	    margin-top: 194px;
+	}
+	.bar-11 .in{
+		height: 43px;
+	}
+	.avge-11 {
+	    margin: 17px auto;
+	}
+	.bar-12 {
+	    height: 196px;
+	    margin-right: 3%;
+	    margin-top: 103px;
+	}
+	.bar-12 .in{
+		height: 71px;
+	}
+	.bar-13 {
+	    height: 120px;
+	    margin-right: 3%;
+	    margin-top: 179px;
+	}
+	.bar-14 {
+	    height: 104px;
+		margin-right: 3%;
+		margin-top: 195px;
+	}
+	.avge-14 {
+	    margin: 50px auto;
+	}
+	.bar-15 {
+	    height: 70px;
+		margin-right: 3%;
+		margin-top: 229px;
+	}
+	.bar-15 .in {
+	    height: 18px;
+	}
+	.avg-15 {
+	    margin: 5px auto;
+	}
+    .avg{
+        width: 7px;
+        height: 7px;
+    }
+    .avge{
+        width: 7px;
+        height: 7px;
+    }
+    .cus-result-sheet-wrapper {
+	    padding-left: 0;
+	    padding-right: 0px;
+	    margin-right: -15px;
+	}
+	.cus-class-section, .cus-school-section,
+	.cus-schol-xm-section, .cus-kidigy-xm-section,
+	.cus-best-sub-section, .cus-improve-sub-section{
+	    padding: 10px 20px;
+	}
+
+/*========== STUDENT-PROFILE-START ==========*/
+
+	.cus-pro-pic img{
+	    width: 45%;
+	    margin: auto;
+	}
+	.std-contacts-section h3{
+        font-size: 17px;
+    }
+    .std-contacts-section{
+        margin: 20px auto;
+        width: 100%;
+    }
+    .cus-std-class {
+        font-size: 13px;
+    }
+    .std-personal-dtl h4{
+        margin-bottom: 12px;
+        padding-bottom: 7px;
+        font-size: 14px;
+    }
+    .title-font{
+        font-size: 13px;
+    }
+    .detail-font{
+        font-size: 11px;
+    }
+    .cus-std-sm-pic img{
+        width: 72%;
+        margin: auto;
+    }
+    .std-contacts-section h4{
+    	font-size: 14px;
+    }
+
+/*========== STUDENT-STUDY-START ==========*/
+	
+	.chapter-practice-section a{
+	    padding: 8px 12%;
+	}
+	.cus-notes-body p{
+		font-size: 12px;
+	}
+	.chapter-list-item-bottom{
+	    width: 62%;
+	}
+	.chapter-practice-section, .chapter-exam-section{
+		font-size: 12px;
+	}
+	.download-img{
+		width: 15px;
+		height: 16px;
+	}
+	.chapter-exam-section a{
+	    padding: 8px 20%;
+	}
+	.exam-img{
+		width: 12px;
+		height: 14px;
+	}
+
+/*========== STUDENT-EXAM-START ==========*/
+
+	.cus-exam-body {
+	    width: 100%;
+	}
+	.cus-exam-body h4, .cus-mcq-result-body h4, .cus-mcq-remainder-score h4{
+		font-size: 12px;
+	}
+	.cus-xm-submit-btn {
+	    width: 100%;
+	    margin: 40px auto 20px;
+	}
+	.cus-xm-submit-btn a, .cus-mcq-submit-btn a{
+		padding: 10px 15px;
+	}
+
+/*========== STUDENT-MCQ-START ==========*/
+
+	.cus-mcq-xm h4, .cus-exam-descriptive h4{
+		font-size: 15px;
+	}
+	.cus-mcq-xm-timer{
+		padding: 0 20%;
+	}
+	.cus-descriptive-summery textarea{
+	    font-size: 12px;
+	}
+	.cus-xm-submit-btn a, .cus-mcq-submit-btn a{
+	    padding: 10px 15px;
+	    font-size: 14px;
+	}
+	.cus-ml-30{
+		margin-left: 25px;
+	}
+	/*.cus-mcq-timer-body {*/
+	    /*background: rgb(255, 255, 255) none repeat scroll 0% 0%;*/
+	    /*width: 140px;*/
+	    /*height: 140px;*/
+	    /*margin: 10px 0;*/
+	    /*padding: 40px 29px;*/
+	    /*border: 20px solid rgb(130, 130, 130);*/
+	    /*border-radius: 50%;*/
+	    /*border-right: 20px solid #3176bb;*/
+	/*}*/
+
+/*========== STUDENT-MCQ-RESULT-START ==========*/
+
+	.portlet.light.portlet-fit > .portlet-body .cus-mcq-result-portlet-body{
+	    padding: 0 20px 0;
+	}
+	.cus-mcq-result-body{
+	    padding: 10px 0;
+	    margin: 5px 0;
+	}
+	.cus-mcq-remainder h2{
+	    font-size: 20px;
+	}
+	.cus-mcq-remainder p{
+	    font-size: 12px;
+	}
+	.cus-mcq-remainder-btn{
+	    margin: 5px auto;
+	}
+	.cus-mcq-remainder-btn a{
+	    padding: 10px 12px;
+		font-size: 11px;
+	}
+
+/*========== STUDENT-Congratulations-START ==========*/
+
+	.cus-congratulations-body {
+	    padding: 10px 0 0;
+		margin: 0;
+	}
+	.cus-congra-wish {
+	    padding: 0 0 0 25px;
+	}
+	.cus-congra-wish h2 {
+	    font-size: 20px;
+	    margin: 5px 0;
+	}
+	.cus-mcq-remainder-score {
+	    margin-top: 8px;
+	    border: none;
+	}
+
+/*========== STUDENT-MODAL-START ==========*/
+
+	.cus-modal-dialog{
+	    margin: 40px 50px 33px;
+	}
+	.cus-modal-time-dialog{
+		/*margin: 90px 30px 33px;*/
+	}
+	.cus-exam-child-body{
+	    width: 100%;
+	}
+	.cus-exam-child-body h4{
+		font-size: 10px;
+	}
+	.cus-exam-body table > tbody > tr > td > span, 
+	.cus-exam-child-body table > tbody > tr > td > span {
+	    padding: 0px 40px;
+	}
+	.cus-push-limit-modal-sub table {
+	    width: 100%;
+	    margin-left: 0px;
+		margin-bottom: 10px !important;
+	}
+	.cus-push-limit-modal-sub h4{
+		font-size: 12px;
+	}
+	.cus-push-limit-modal-sub table > tbody > tr > td > span {
+	    padding: 0px 29px;
+	}
+	.cus-mcq-result-modal-child-body table {
+	    width: 45%;
+	    margin-left: 0px;
+	}
+	.cus-mcq-child-remainder-btn{
+	    margin: 10px auto 30px;
+	}
+	.cus-congra-wish.cus-child-congra-wish {
+	    padding: 0 15%;
+	}
+	.cus-finis-time-body {
+	    border: 1px solid #acacac;
+	    margin: 10px 0 0;
+	    padding: 25px 0px;
+	}
+	.cus-finis-time {
+	    overflow: hidden;
+	    width: 100%;
+	    padding: 0 5%;
+	}
+	.cus-finis-time h2 {
+	    font-size: 18px;
+	    font-family: 'Montserrat', sans-serif;
+	    margin: 5px 0;
+	}
+	.cus-time-out {
+	    margin-bottom: 20px;
+	    color: #bdbdbd;
+	    font-size: 30px;
+	}
+	.cus-xm-modal-dialog {
+	    margin: 30px 50px 30px;
+	}
+	.cus-time-left-contnt{
+	    margin-top: 10px;
+	}
+	.cus-time-left-contnt h2{
+	    font-size: 16px;
+	}
+	.btn-return{
+	    margin-right: 5px;
+	}
+
+/***** Attendance & Marks SECTION *****/
+
+    .form-box-wrapper{
+        width: 100%;
+    }
+    .form-check-box-wrapper{
+        margin-bottom: 15px;
+        padding-left: 0%;
+    }
+    .form-box-date-wrapper{
+        width: 100%;
+    }
+    .form-horizontal .cus-control-label{
+        padding-top: 0;
+    }
+    .cus-form-control{
+        margin: 0 0 15px;
+    }
+    .form-box-date-wrapper{
+        margin: 0 auto 20px;
+    }
+    .attend-mark-date-btn{
+    	margin-bottom: 15px;
+    }
+    .portlet.light.portlet-fit > .attend-mark-port-title{
+    	margin: 5px 8px 10px;
+    }
+    .control-label.attend-mark-date-label{
+    	padding-top: 6px;
+    }
+
+/*========== Student-Study-Second-Modal-Design  ==========*/
+
+    .cus-exam-modal-dialog{
+        margin: 30px 12px 30px;
+    }
+    .portlet.light.portlet-fit > 
+    .std-study-second-design-subtitle{
+        margin: 10px;
+    }
+    .std-study-second-design-portlet-body {
+        padding: 0px 0px 20px;
+    }
+    .cus-xm-descrip ul{
+        padding-left: 10px;
+    }
+    .cus-xm-separator1{
+        margin: 0 10px 0 45px;
+    }
+    .cus-xm-separator2{
+        margin: 0 7px 0 55px;
+    }
+    .cus-xm-separator3{
+        margin: 0 10px 0 90px;
+    }
+    .cus-xm-separator4{
+        margin: 0 10px;
+    }
+    .cus-xm-separator5{
+        margin: 0 10px 0 112px;
+    }
+    .cus-xm-separator6{
+        margin: 0 10px 0 74px;
+    }
+    .cus-xm-separator7{
+        margin: 0 10px 0 70px;
+    }
+    .cus-xm-descrip{
+        padding: 12px 5px 15px;
+    }
+
+/***** Student Exam Status Third Design *****/
+
+    .xm-3rd-portlet-title{
+        text-align: center;
+    }
+    .xm-3rd-sm-display{
+        display: block;
+    }
+    .xm-3rd-sm-dis-hidden{
+        display: none;
+    }
+
+/***** INFO SECTION *****/
+
+	.school-status-body{
+	    
+	}
+	.school-description-wrapper{
+		
+	}
+	.school-name img{
+		width: 228px;
+	}
+	.school-description-wrapper h2{
+		margin-left: 10px;
+	}
+	.school-description-wrapper ul{
+		margin: 0;
+		padding: 0 0 0 10px;
+	}
+	.descrip-title{
+	    font-size: 14px;
+	}
+	.descrip-separator1 {
+	    margin: 1px 15px 0 40px;
+	}
+	.descrip-separator2 {
+	    margin: 1px 15px 0 60px;
+	}
+	.descrip-separator3 {
+	    margin: 1px 15px 0 26px;
+	}
+	.descrip-separator4 {
+	    margin: 1px 15px 0 15px;
+	}
+	.school-descrip-body blockquote {
+	    width: 100%;
+	    padding: 10px;
+	    margin: 10px auto;
+	    font-size: 11.5px;
+	}
+	.cus-sch-des-st table tr td h4{
+		font-size: 12px;
+	}
+	.class-list-section {
+	    margin: 25px 2% 8px;
+	}
+	.cus-class-btn-stl{
+		padding: 10px 25%;
+	}
+	.cus-class-btn-stl a{
+		font-size: 13px;
+	}
+	.cus-col-sm-border {
+	    border: 0px solid transparent;
+		border-right: 1px solid #ddd;
+		font-size: 8px;
+		padding-left: 2px;
+		padding-right: 2px;
+	}
+	.cus-xm-schedule-body{
+		margin-left: 0;
+		padding-left: 0;
+	}
+	.sub-schedule-bar1 {
+	    margin-top: 18px;
+	}
+	.sub-schedule-bar2{
+    	margin-top: 35px;
+	}
+	.sub-schedule-bar3{
+	    margin-top: 34px;
+	}
+	.sub-schedule-bar4{
+	    margin-top: 34px;
+	}
+	.sub-schedule-bar5{
+	    margin-top: 34px;
+	}
+	.sub-schedule-bar6{
+	    margin-top: 34px;
+	}
+	.sub-schedule-bar7{
+	    margin-top: 34px;
+	}
+	.sub-schedule-bar8{
+	    margin-top: 34px;
+	}
+	.sub-schedule-bar9{
+	    margin-top: 34px;
+	}
+	.sub-schedule-bar10{
+	    margin-top: 34px;
+	}
+	.sub-schedule-1, .sub-schedule-2, .sub-schedule-3, .sub-schedule-4, .sub-schedule-5, 
+	.sub-schedule-6, .sub-schedule-7, .sub-schedule-8, .sub-schedule-9, .sub-schedule-10{
+	    font-size: 10px;
+	}
+	.doted{
+	    width: 5px;
+	    height: 5px;
+	}
+	.doted-1{
+	    top: 2px;
+	    right: 45%;
+	}
+	.doted-2{
+	    top: 2px;
+	    right: 55%;
+	}
+	.doted-3{
+	    top: 2px;
+	    right: 35%;
+	}
+	.doted-4{
+	    top: 2px;
+	    right: 44%;
+	}
+	.doted-sub-4{
+	    top: 2px;
+	    right: 10%;
+	}
+	.doted-5{
+	    top: 2px;
+	    right: 70%;
+	}
+	.doted-6{
+	    top: 2px;
+	    right: 34%;
+	}
+	.doted-7{
+	    top: 2px;
+	    right: 60%;
+	}
+	.doted-8{
+	    top: 2px;
+	    right: 3%;
+	}
+	.doted-9{
+	    top: 2px;
+	    right: 50%;
+	}
+	.doted-sub-9{
+	    top: 2px;
+	    right: 0%;
+	}
+	.doted-10{
+	    top: 2px;
+	    right: 70%;
+	}
+	.cus-top-performers-body ul{
+	    margin: 10px 0;
+		padding-left: 0;
+	    list-style: none;
+	}
+	.cus-num-list{
+	    font-size: 13px;
+	}
+	.portlet-img{
+		float: none;
+	}
+	.portlet-img img{
+	    width: 66px;
+	    height: 70px;
+	}
+	.cus-mr-20{
+	    margin-right: 12px;
+	}
+	.performers-details-wrapper{
+		margin-top: 10px;
+		margin-left: 30px;
+	    font-size: 11px;
+	}
+	.info-perform-border1-ltr-rtl{
+	    margin: 0px 5px 0 71px;
+	}
+	.info-perform-border2-ltr-rtl{
+	    margin: 0px 5px 0px 73px;
+	}
+	.info-perform-border3-ltr-rtl{
+	    margin: 0px 5px 0px 18px;
+	}
+	.info-perform-border4-ltr-rtl{
+	    margin: 0px 5px;
+	}
+	.info-perform-border5-ltr-rtl{
+	    margin: 0px 5px 0px 47px;
+	}
+	.cus-top-performers-body ul li{
+	    margin-bottom: 15px;
+	}
+	.doted-bottom-1{
+	    background: #e7515a;
+	    top: 2px;
+	    right: 65%;
+	}
+	.doted-average-1{
+	    background: #78c14d;
+	    top: 2px;
+	    right: 55%;
+	}
+	.doted-top-1{
+	    background: #104572;
+	    top: 2px;
+	    right: 40%;
+	}
+	.doted-bottom-2{
+	    background: #e7515a;
+	    top: 2px;
+	    right: 78%;
+	}
+	.doted-average-2{
+	    background: #78c14d;
+	    top: 2px;
+	    right: 64%;
+	}
+	.doted-top-2{
+	    background: #104572;
+	    top: 2px;
+	    right: 52%;
+	}
+	.doted-bottom-3{
+	    background: #e7515a;
+	    top: 2px;
+	    right: 57%;
+	}
+	.doted-average-3{
+	    background: #78c14d;
+	    top: 2px;
+	    right: 46%;
+	}
+	.doted-top-3{
+	    background: #104572;
+	    top: 2px;
+	    right: 30%;
+	}
+	.doted-bottom-4{
+	    background: #e7515a;
+	    top: 2px;
+	    right: 38%;
+	}
+	.doted-average-4{
+	    background: #78c14d;
+	    top: 2px;
+	    right: 28%;
+	}
+	.doted-top-4{
+	    background: #104572;
+	    top: 2px;
+	    right: 10%;
+	}
+	.doted-bottom-5{
+	    background: #e7515a;
+	    top: 2px;
+	    right: 96%;
+	}
+	.doted-average-5{
+	    background: #78c14d;
+	    top: 2px;
+	    right: 83%;
+	}
+	.doted-top-5{
+	    background: #104572;
+	    top: 2px;
+	    right: 68%;
+	}
+	.doted-bottom-6{
+	    background: #e7515a;
+	    top: 2px;
+	    right: 55%;
+	}
+	.doted-average-6{
+	    background: #78c14d;
+	    top: 2px;
+	    right: 43%;
+	}
+	.doted-top-6{
+	    background: #104572;
+	    top: 2px;
+	    right: 27%;
+	}
+	.doted-bottom-7{
+	    background: #e7515a;
+	    top: 2px;
+	    right: 88%;
+	}
+	.doted-average-7{
+	    background: #78c14d;
+	    top: 2px;
+	    right: 76%;
+	}
+	.doted-top-7{
+	    background: #104572;
+	    top: 2px;
+	    right: 62%;
+	}
+	.doted-bottom-8{
+	    background: #e7515a;
+	    top: 2px;
+	    right: 32%;
+	}
+	.doted-average-8{
+	    background: #78c14d;
+	    top: 2px;
+	    right: 20%;
+	}
+	.doted-top-8{
+	    background: #104572;
+	    top: 2px;
+	    right: 5%;
+	}
+	.doted-bottom-9{
+	    background: #e7515a;
+	    top: 2px;
+	    right: 82%;
+	}
+	.doted-average-9{
+	    background: #78c14d;
+	    top: 2px;
+	    right: 71%;
+	}
+	.doted-top-9{
+	    background: #104572;
+	    top: 2px;
+	    right: 52%;
+	}
+	.doted-bottom-10{
+	    background: #e7515a;
+	    top: 2px;
+	    right: 30%;
+	}
+	.doted-average-10{
+	    background: #78c14d;
+	    top: 2px;
+	    right: 18%;
+	}
+	.doted-top-10{
+	    background: #104572;
+	    top: 2px;
+	    right: 1%;
+	}
+	.bash-bottom{
+	    font-size: 9px;
+	}
+	.cus-col-sm-1{
+	    padding-left: 3px;
+	    padding-right: 3px;
+	}
+	.info-bar-type{
+	    margin: 10px 0 0;
+	}
+
+/*========== SCHOOL HOME SECTION ==========*/
+
+	.home-total-std{
+	    text-align: left;
+	}
+	.home-attnd-separator{
+	    padding-top: 7px;
+    	margin-left: 5px;
+	}
+
+/*===== Result Summary Bar Chart =====*/
+
+	.sub-sch-home-bar1 {
+	    margin-top: 11px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar2 {
+	    margin-top: 20px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar3 {
+	    margin-top: 20px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar4 {
+	    margin-top: 19px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar5 {
+	    margin-top: 19px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar6 {
+	    margin-top: 19px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar7 {
+	    margin-top: 19px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar8 {
+	    margin-top: 19px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar9 {
+	    margin-top: 19px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar10 {
+	    margin-top: 19px;
+	    width: 96%;
+	}
+	.barchart-bottom-1 {
+	    top: 0;
+	    right: 60%;
+	    width: 40%;
+	}
+	.barchart-average-1 {
+	    top: 0;
+	    right: 52%;
+	    width: 1%;
+	}
+	.barchart-top-1 {
+	    top: 0;
+	    right: 50%;
+	    width: 10%;
+	}
+	.barchart-bottom-2 {
+	    top: 0;
+	    right: 60%;
+	    width: 40%;
+	}
+	.barchart-average-2 {
+	    top: 0;
+	    right: 74%;
+	    width: 1%;
+	}
+	.barchart-top-2 {
+	    top: 0;
+	    right: 50%;
+	    width: 10%;
+	}
+	.barchart-bottom-3 {
+	    top: 0;
+	    right: 39%;
+	    width: 61%;
+	}
+	.barchart-average-3 {
+	    top: 0;
+	    right: 30%;
+	    width: 1%;
+	}
+	.barchart-top-3 {
+	    top: 0;
+	    right: 25%;
+	    width: 14%;
+	}
+	.barchart-bottom-4 {
+	    top: 1px;
+	    right: 68%;
+	    width: 32%;
+	}
+	.barchart-average-4 {
+	    top: 1px;
+	    right: 90%;
+	    width: 1%;
+	}
+	.barchart-top-4 {
+	    top: 1px;
+	    right: 60%;
+	    width: 8%;
+	}
+	.barchart-bottom-5 {
+	    top: 2px;
+	    right: 68%;
+	    width: 32%;
+	}
+	.barchart-average-5 {
+	    top: 2px;
+	    right: 67%;
+	    width: 1%;
+	}
+	.barchart-top-5 {
+	    top: 2px;
+	    right: 50%;
+	    width: 18%;
+	}
+	.barchart-bottom-6 {
+	    top: 3px;
+	    right: 39%;
+	    width: 61%;
+	}
+	.barchart-average-6 {
+	    top: 3px;
+	    right: 21%;
+	    width: 1%;
+	}
+	.barchart-top-6 {
+	    top: 3px;
+	    right: 14%;
+	    width: 25%;
+	}
+	.barchart-bottom-7 {
+	    top: 4px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-7 {
+	    top: 4px;
+	    right: 55%;
+	    width: 1%;
+	}
+	.barchart-top-7 {
+	    top: 4px;
+	    right: 50%;
+	    width: 17%;
+	}
+	.barchart-bottom-8 {
+	    top: 5px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-8 {
+	    top: 5px;
+	    right: 70%;
+	    width: 1%;
+	}
+	.barchart-top-8 {
+	    top: 5px;
+	    right: 60%;
+	    width: 7%;
+	}
+	.barchart-bottom-9 {
+	    top: 6px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-9 {
+	    top: 6px;
+	    right: 50%;
+	    width: 1%;
+	}
+	.barchart-top-9 {
+	    top: 6px;
+	    right: 37%;
+	    width: 30%;
+	}
+	.barchart-bottom-10 {
+	    top: 8px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-10 {
+	    top: 8px;
+	    right: 75%;
+	    width: 1%;
+	}
+	.barchart-top-10 {
+	    top: 8px;
+	    right: 55%;
+	    width: 12%;
+	}
+	.sch-home-percent-1{
+		left: 51%;
+		top: -3px;
+	}
+	.sch-home-percent-2{
+		left: 51%;
+		top: -3px;
+	}
+	.sch-home-percent-3{
+		left: 76%;
+		top: -3px;
+	}
+	.sch-home-percent-4{
+		left: 41%;
+		top: -2px;
+	}
+	.sch-home-percent-5{
+		left: 51%;
+		top: -1px;
+	}
+	.sch-home-percent-6{
+		left: 87%;
+		top: 1px;
+	}
+	.sch-home-percent-7{
+		left: 51%;
+		top: 2px;
+	}
+	.sch-home-percent-8{
+		left: 41%;
+		top: 3px;
+	}
+	.sch-home-percent-9{
+		left: 64%;
+		top: 4px;
+	}
+	.sch-home-percent-10{
+		left: 46%;
+		top: 6px;
+	}
+
+
+}
+
+@media only screen and (min-width : 768px){
+
+/*========== INDEX-CSS-START ==========*/
+
+	.page-sidebar .page-sidebar-menu > .cus-sidebar-search-wrapper{
+	    padding: 20px 10px 19px;
+	}
+	.page-header.navbar .page-logo {
+	    width: 94%;
+	}
+	.cus-page-bar{
+	    margin-bottom: 0;
+	}
+	.page-bar .page-breadcrumb {
+	    padding: 20px;
+	}
+	.cus-sub-img-width {
+	    width: 20%;
+	}
+	.page-inner-content-wrapper {
+	    padding: 25px 20px 10px;
+	}
+	.cus-bar-wrapper {
+	    margin: 8px 0;
+	    padding: 0px;
+	}
+	.cus-result-sheet-wrapper {
+	    padding-left: 15px;
+	    padding-right: 0px;
+	    margin-right: -15px;
+	}
+	.mt-element-step .step-default .mt-step-col {
+	    padding-top: 30px;
+	    padding-bottom: 30px;
+	}
+	.mt-element-step .step-default .active {
+	    width: 23%;
+	    margin: 0 1% 20px;
+	}
+	.cus-class-section, .cus-school-section, .cus-schol-xm-section, 
+	.cus-kidigy-xm-section, .cus-best-sub-section, 
+	.cus-improve-sub-section {
+	    padding: 8px;
+	    margin-bottom: 10px;
+	}
+	.cus-result-title, .cus-result-inschool {
+	    font-size: 11px;
+	}
+	.cus-result-score {
+	    font-size: 40px;
+	    line-height: 48px;
+	}
+	.cus-result-inschool {
+	    padding-top: 6px;
+	}
+	.bar {
+	    height: 499px;
+	}
+
+/*========== STUDENT-PROFILE-START ==========*/
+
+	.cus-pro-pic img {
+	    width: 35%;
+	    margin: auto;
+	}
+	.cus-std-profile-wrapper .cus-class-section, .cus-std-profile-wrapper .cus-school-section, 
+	.cus-std-profile-wrapper .cus-schol-xm-section, .cus-std-profile-wrapper .cus-kidigy-xm-section, 
+	.cus-std-profile-wrapper .cus-best-sub-section, .cus-std-profile-wrapper .cus-improve-sub-section {
+	    padding: 15px;
+	}
+	.std-contacts-section h4, .std-personal-dtl h4 {
+	    font-size: 19px;
+	}
+	.cus-std-class {
+	    font-size: 17px;
+	}
+	.title-font {
+	    font-size: 14px;
+	}
+	.detail-font {
+	    font-size: 13px;
+	}
+
+/*========== STUDENT-STUDY-START ==========*/
+
+	.cus-notes-body p{
+		font-size: 14px;
+	}
+	.chapter-list-item-bottom{
+	    width: 40%;
+	}
+
+	.chapter-practice-section a {
+	    padding: 8px 15%;
+	}
+	.chapter-exam-section a {
+	    padding: 8px 29%;
+	}
+
+/*========== STUDENT-EXAM-START ==========*/
+
+	.cus-exam-body{
+	    width: 75%;
+	}
+	.cus-exam-body h4, .cus-mcq-result-body h4, .cus-mcq-remainder-score h4{
+        font-size: 18px;
+    }
+	.cus-xm-submit-btn {
+		width: 100%;
+		margin: 40px auto 20px;
+	}
+
+/*========== STUDENT-MCQ-START ==========*/
+
+	.cus-mcq-xm h4, .cus-exam-descriptive h4 {
+	    font-size: 18px;
+	}
+	.cus-descriptive-summery textarea{
+	    font-size: 14px;
+	}
+	.cus-mcq-submit-btn {
+		width: 25%;
+	}
+	.cus-xm-submit-btn a, .cus-mcq-submit-btn a{
+	    padding: 10px 25px;
+	    font-size: 18px;
+	}
+	.cus-mcq-xm-timer {
+	    padding-left: 5%;
+	}
+	.cus-ml-30{
+		margin-left: 30px;
+	}
+	/*.cus-mcq-timer-body{*/
+	    /*background: rgb(255, 255, 255) none repeat scroll 0% 0%;*/
+	    /*width: 170px;*/
+	    /*height: 170px;*/
+	    /*margin: 10px 0;*/
+	    /*padding: 55px 44px;*/
+	    /*border: 20px solid rgb(130, 130, 130);*/
+	    /*border-radius: 50%;*/
+	    /*border-right: 20px solid #3176bb;*/
+	/*}*/
+
+/*========== STUDENT-MCQ-RESULT-START ==========*/
+
+	.cus-mcq-result-body{
+	    padding: 20px 0 0;
+	}
+	.cus-mcq-remainder h2 {
+		margin-top: 10px;
+	    font-size: 32px;
+	}
+	.cus-mcq-remainder p {
+	    font-size: 22px;
+	}
+	.cus-mcq-remainder-btn {
+	    width: 62%;
+	    margin: 18px auto 15px;
+	}
+
+/*========== STUDENT-Congratulations-START ==========*/
+
+	.cus-congratulations-body {
+	    padding: 15px 30px;
+		margin: 0;
+	}
+	.cus-congra-wish.cus-child-congra-wish {
+	    padding: 0 18%;
+	}
+	.cus-congra-wish h2 {
+	    font-size: 34px;
+	}
+	.cus-mcq-remainder-score {
+	    margin-top: 15px;
+	}
+
+/*========== STUDENT-MODAL-START ==========*/
+
+	.cus-modal-dialog{
+	    margin: 40px auto 33px;
+	}
+	.cus-modal-time-dialog{
+		/*margin: 100px auto 33px;*/
+	}
+	.cus-exam-child-body{
+	    width: 87%;
+	}
+	.cus-exam-child-body h4{
+		font-size: 16px;
+	}
+	.cus-push-limit-modal-sub table{
+	    width: 77%;
+	    margin-left: 105px;
+	}
+	.cus-push-limit-modal-sub h4 {
+	    font-size: 16px;
+	}
+	.cus-mcq-remainder h2 {
+	    font-size: 24px;
+	}
+	.cus-mcq-remainder p {
+	    font-size: 16px;
+	}
+	.cus-mcq-result-modal-child-body table{
+		width: 45%;
+		margin-left: 160px;
+	}
+	.cus-mcq-child-remainder-btn{
+	    margin: 0px auto 30px;
+	}
+	.cus-push-marks table {
+	    width: 45%;
+		margin-left: 150px;
+	}
+	.cus-mcq-remainder-score {
+	    margin-top: 0;
+	}
+	.cus-finis-time-body{
+	    border: 1px solid #acacac;
+	    margin: 10px 0 0;
+	    padding: 25px 30px;
+	}
+	.cus-finis-time{
+	    overflow: hidden;
+	    width: 100%;
+	    padding: 0 24%;
+	}
+	.cus-finis-time h2{
+	    font-size: 32px;
+	    font-family: 'Montserrat', sans-serif;
+	    margin: 5px 0;
+	}
+	.cus-time-out{
+	    margin-bottom: 30px;
+	    color: #bdbdbd;
+	    font-size: 48px;
+	}
+	.cus-xm-modal-dialog {
+	    margin: 80px auto 30px;
+	}
+	.cus-time-left-contnt{
+	    margin-top: 10px;
+	}
+	.cus-time-left-contnt h2{
+	    font-size: 24px;
+	}
+	.btn-return{
+	    margin-right: 30px;
+	}
+
+/***** Attendance & Marks SECTION *****/
+
+    .form-box-wrapper{
+        width: 65%;
+    }
+    .form-check-box-wrapper{
+        margin-bottom: 0;
+        padding-left: 18%;
+    }
+    .form-box-date-wrapper{
+        width: 65%;
+    }
+    .form-horizontal .cus-control-label{
+        padding-top: 18px;
+    }
+    .cus-form-control{
+        margin: 10px 0;
+    }
+    .form-box-date-wrapper{
+        margin: 10px auto;
+    }
+    .attend-mark-date-btn{
+    	margin-bottom: 0;
+    	line-height: 1.46 !important;
+    }
+    .control-label.attend-mark-date-label{
+    	padding-top: 15px;
+    }
+    .portlet.light.portlet-fit > .attend-mark-port-title{
+    	margin: 5px 17px 10px;
+    }
+
+/*========== Student-Study-Second-Modal-Design ==========*/
+
+    .cus-exam-modal-dialog {
+        margin: 80px auto 30px;
+    }
+    .portlet.light.portlet-fit > 
+    .std-study-second-design-subtitle{
+        margin: 20px;
+    }
+    .std-study-second-design-portlet-body{
+        padding: 0px 10px 20px;
+    }
+    .cus-xm-descrip ul{
+        padding-left: 40px;
+    }
+    .cus-xm-separator1{
+        margin: 0 30px 0 116px;
+    }
+    .cus-xm-separator2{
+        margin: 0 30px 0 75px;
+    }
+    .cus-xm-separator3{
+        margin: 0 30px 0 110px;
+    }
+    .cus-xm-separator4{
+        margin: 0 30px;
+    }
+    .cus-xm-separator5{
+        margin: 0 30px 0 132px;
+    }
+    .cus-xm-separator6{
+        margin: 0 30px 0 94px;
+    }
+    .cus-xm-separator7{
+        margin: 0 30px 0 90px;
+    }
+    .cus-xm-descrip{
+        padding: 30px 0 20px;
+    }
+
+/***** Student Exam Status Third Design *****/
+
+    .xm-3rd-portlet-title{
+        text-align: center;
+    }
+    .xm-3rd-sm-display{
+        display: inline-block;
+    }
+    .xm-3rd-sm-dis-hidden{
+        display: inline-block;
+    }
+
+/***** INFO SECTION *****/
+
+	.school-status-body{
+	    
+	}
+	.school-description-wrapper{
+		
+	}
+	.school-name img{
+		width: 285px;
+	}
+	.descrip-separator1 {
+	    margin: 1px 15px 0 95px;
+	}
+	.descrip-separator2 {
+	    margin: 1px 15px 0 52px;
+	}
+	.descrip-separator3 {
+	    margin: 1px 15px 0 15px;
+	}
+	.descrip-separator4 {
+	    margin: 1px 15px 0 50px;
+	}
+	.descrip-title {
+	    font-size: 15px;
+	}
+	.school-descrip-body blockquote {
+	    font-size: 14.5px;
+	}
+	.cus-sch-des-st table tr td h4{
+		font-size: 18px;
+	}
+	.class-list-section {
+	    margin: 35px 3% 15px;
+	}
+	.cus-class-btn-stl{
+    	padding: 10px 38%;
+	}
+	.cus-class-btn-stl a{
+		font-size: 15px;
+	}
+	.cus-col-sm-border {
+		padding-left: 8px;
+		padding-right: 8px;
+	    border: 5px solid transparent;
+	    border-right: 1px solid #ddd;
+	    font-size: 12px;
+	}
+	.sub-schedule-bar1 {
+	    margin-top: 28px;
+	}
+	.sub-schedule-bar2{
+    	margin-top: 45px;
+	}
+	.sub-schedule-bar3{
+	    margin-top: 45px;
+	}
+	.sub-schedule-bar4{
+	    margin-top: 45px;
+	}
+	.sub-schedule-bar5{
+	    margin-top: 45px;
+	}
+	.sub-schedule-bar6{
+	    margin-top: 45px;
+	}
+	.sub-schedule-bar7{
+	    margin-top: 45px;
+	}
+	.sub-schedule-bar8{
+	    margin-top: 45px;
+	}
+	.sub-schedule-bar9{
+	    margin-top: 45px;
+	}
+	.sub-schedule-bar10{
+	    margin-top: 45px;
+	}
+	.sub-schedule-1, .sub-schedule-2, .sub-schedule-3, .sub-schedule-4, .sub-schedule-5, 
+	.sub-schedule-6, .sub-schedule-7, .sub-schedule-8, .sub-schedule-9, .sub-schedule-10{
+	    font-size: 14px;
+	}
+	.doted{
+	    width: 9px;
+	    height: 9px;
+	}
+	.doted-1{
+	    top: 0;
+	    right: 45%;
+	}
+	.doted-2{
+	    top: 0;
+	    right: 55%;
+	}
+	.doted-3{
+	    top: 0;
+	    right: 35%;
+	}
+	.doted-4{
+	    top: 0;
+	    right: 44%;
+	}
+	.doted-sub-4{
+	    top: 0;
+	    right: 10%;
+	}
+	.doted-5{
+	    top: 0;
+	    right: 70%;
+	}
+	.doted-6{
+	    top: 0;
+	    right: 34%;
+	}
+	.doted-7{
+	    top: 0;
+	    right: 60%;
+	}
+	.doted-8{
+	    top: 0;
+	    right: 3%;
+	}
+	.doted-9{
+	    top: 0;
+	    right: 50%;
+	}
+	.doted-sub-9{
+	    top: 0;
+	    right: 0%;
+	}
+	.doted-10{
+	    top: 0;
+	    right: 70%;
+	}
+	.cus-top-performers-body ul{
+	    margin-top: 20px;
+	    margin-bottom: 20px;
+	    padding-left: 40px;
+	    list-style: none;
+	}
+	.cus-num-list{
+	    font-size: 18px;
+	}
+	.portlet-img{
+		float: left;
+	}
+	.portlet-img img{
+	    width: 120px;
+	    height: 120px;
+	}
+	.cus-mr-20{
+	    margin-right: 20px;
+	}
+	.performers-details-wrapper{
+		margin-top: 0;
+		margin-left: 0;
+	    font-size: 14px;
+	}
+	.info-perform-border1-ltr-rtl{
+	    margin: 0px 20px 0 123px;
+	}
+	.info-perform-border2-ltr-rtl{
+	    margin: 0px 20px 0px 126px;
+	}
+	.info-perform-border3-ltr-rtl{
+	    margin: 0px 20px 0px 56px;
+	}
+	.info-perform-border4-ltr-rtl{
+	    margin: 0px 20px 0px 40px;
+	}
+	.info-perform-border5-ltr-rtl{
+	    margin: 0px 20px 0px 93px;
+	}
+	.cus-top-performers-body ul li{
+	    margin-bottom: 30px;
+	}
+	.doted-bottom-1{
+	    background: #e7515a;
+	    top: 0;
+	    right: 65%;
+	}
+	.doted-average-1{
+	    background: #78c14d;
+	    top: 0;
+	    right: 55%;
+	}
+	.doted-top-1{
+	    background: #104572;
+	    top: 0;
+	    right: 40%;
+	}
+	.doted-bottom-2{
+	    background: #e7515a;
+	    top: 0;
+	    right: 78%;
+	}
+	.doted-average-2{
+	    background: #78c14d;
+	    top: 0;
+	    right: 64%;
+	}
+	.doted-top-2{
+	    background: #104572;
+	    top: 0;
+	    right: 52%;
+	}
+	.doted-bottom-3{
+	    background: #e7515a;
+	    top: 0;
+	    right: 57%;
+	}
+	.doted-average-3{
+	    background: #78c14d;
+	    top: 0;
+	    right: 46%;
+	}
+	.doted-top-3{
+	    background: #104572;
+	    top: 0;
+	    right: 30%;
+	}
+	.doted-bottom-4{
+	    background: #e7515a;
+	    top: 0;
+	    right: 38%;
+	}
+	.doted-average-4{
+	    background: #78c14d;
+	    top: 0;
+	    right: 28%;
+	}
+	.doted-top-4{
+	    background: #104572;
+	    top: 0;
+	    right: 10%;
+	}
+	.doted-bottom-5{
+	    background: #e7515a;
+	    top: 0;
+	    right: 96%;
+	}
+	.doted-average-5{
+	    background: #78c14d;
+	    top: 0;
+	    right: 83%;
+	}
+	.doted-top-5{
+	    background: #104572;
+	    top: 0;
+	    right: 68%;
+	}
+	.doted-bottom-6{
+	    background: #e7515a;
+	    top: 0;
+	    right: 55%;
+	}
+	.doted-average-6{
+	    background: #78c14d;
+	    top: 0;
+	    right: 43%;
+	}
+	.doted-top-6{
+	    background: #104572;
+	    top: 0;
+	    right: 27%;
+	}
+	.doted-bottom-7{
+	    background: #e7515a;
+	    top: 0;
+	    right: 88%;
+	}
+	.doted-average-7{
+	    background: #78c14d;
+	    top: 0;
+	    right: 76%;
+	}
+	.doted-top-7{
+	    background: #104572;
+	    top: 0;
+	    right: 62%;
+	}
+	.doted-bottom-8{
+	    background: #e7515a;
+	    top: 0;
+	    right: 32%;
+	}
+	.doted-average-8{
+	    background: #78c14d;
+	    top: 0;
+	    right: 20%;
+	}
+	.doted-top-8{
+	    background: #104572;
+	    top: 0;
+	    right: 5%;
+	}
+	.doted-bottom-9{
+	    background: #e7515a;
+	    top: 0;
+	    right: 82%;
+	}
+	.doted-average-9{
+	    background: #78c14d;
+	    top: 0;
+	    right: 71%;
+	}
+	.doted-top-9{
+	    background: #104572;
+	    top: 0;
+	    right: 52%;
+	}
+	.doted-bottom-10{
+	    background: #e7515a;
+	    top: 0;
+	    right: 30%;
+	}
+	.doted-average-10{
+	    background: #78c14d;
+	    top: 0;
+	    right: 18%;
+	}
+	.doted-top-10{
+	    background: #104572;
+	    top: 0;
+	    right: 1%;
+	}
+	.bash-bottom{
+	    font-size: 14px;
+	}
+	.cus-col-sm-1{
+	    padding-left: 15px;
+	    padding-right: 15px;
+	}
+	.info-bar-type{
+	    margin: 20px;
+	}
+	.cus-xm-schedule-body {
+	    margin-left: -35px;
+	}
+
+/*========== SCHOOL HOME SECTION ==========*/
+	
+
+	.home-total-std{
+	    text-align: right;
+	}
+	.home-attnd-separator{
+	    padding-top: 15px;
+    	margin-left: 0;
+	}
+
+/*===== Result Summary Bar Chart =====*/
+
+	.sub-sch-home-bar1 {
+	    margin-top: 14px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar2 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar3 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar4 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar5 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar6 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar7 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar8 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar9 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar10 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.barchart-bottom-1 {
+	    top: 0;
+	    right: 60%;
+	    width: 40%;
+	}
+	.barchart-average-1 {
+	    top: 0;
+	    right: 52%;
+	    width: 1%;
+	}
+	.barchart-top-1 {
+	    top: 0;
+	    right: 50%;
+	    width: 10%;
+	}
+	.barchart-bottom-2 {
+	    top: 0;
+	    right: 60%;
+	    width: 40%;
+	}
+	.barchart-average-2 {
+	    top: 0;
+	    right: 74%;
+	    width: 1%;
+	}
+	.barchart-top-2 {
+	    top: 0;
+	    right: 50%;
+	    width: 10%;
+	}
+	.barchart-bottom-3 {
+	    top: 0;
+	    right: 39%;
+	    width: 61%;
+	}
+	.barchart-average-3 {
+	    top: 0;
+	    right: 30%;
+	    width: 1%;
+	}
+	.barchart-top-3 {
+	    top: 0;
+	    right: 25%;
+	    width: 14%;
+	}
+	.barchart-bottom-4 {
+	    top: 1px;
+	    right: 68%;
+	    width: 32%;
+	}
+	.barchart-average-4 {
+	    top: 1px;
+	    right: 90%;
+	    width: 1%;
+	}
+	.barchart-top-4 {
+	    top: 1px;
+	    right: 60%;
+	    width: 8%;
+	}
+	.barchart-bottom-5 {
+	    top: 2px;
+	    right: 68%;
+	    width: 32%;
+	}
+	.barchart-average-5 {
+	    top: 2px;
+	    right: 67%;
+	    width: 1%;
+	}
+	.barchart-top-5 {
+	    top: 2px;
+	    right: 50%;
+	    width: 18%;
+	}
+	.barchart-bottom-6 {
+	    top: 3px;
+	    right: 39%;
+	    width: 61%;
+	}
+	.barchart-average-6 {
+	    top: 3px;
+	    right: 21%;
+	    width: 1%;
+	}
+	.barchart-top-6 {
+	    top: 3px;
+	    right: 14%;
+	    width: 25%;
+	}
+	.barchart-bottom-7 {
+	    top: 4px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-7 {
+	    top: 4px;
+	    right: 55%;
+	    width: 1%;
+	}
+	.barchart-top-7 {
+	    top: 4px;
+	    right: 50%;
+	    width: 17%;
+	}
+	.barchart-bottom-8 {
+	    top: 5px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-8 {
+	    top: 5px;
+	    right: 70%;
+	    width: 1%;
+	}
+	.barchart-top-8 {
+	    top: 5px;
+	    right: 60%;
+	    width: 7%;
+	}
+	.barchart-bottom-9 {
+	    top: 6px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-9 {
+	    top: 6px;
+	    right: 50%;
+	    width: 1%;
+	}
+	.barchart-top-9 {
+	    top: 6px;
+	    right: 37%;
+	    width: 30%;
+	}
+	.barchart-bottom-10 {
+	    top: 8px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-10 {
+	    top: 8px;
+	    right: 75%;
+	    width: 1%;
+	}
+	.barchart-top-10 {
+	    top: 8px;
+	    right: 55%;
+	    width: 12%;
+	}
+	.sch-home-percent-1{
+		left: 51%;
+		top: -3px;
+	}
+	.sch-home-percent-2{
+		left: 51%;
+		top: -3px;
+	}
+	.sch-home-percent-3{
+		left: 76%;
+		top: -3px;
+	}
+	.sch-home-percent-4{
+		left: 41%;
+		top: -2px;
+	}
+	.sch-home-percent-5{
+		left: 51%;
+		top: -1px;
+	}
+	.sch-home-percent-6{
+		left: 87%;
+		top: 1px;
+	}
+	.sch-home-percent-7{
+		left: 51%;
+		top: 2px;
+	}
+	.sch-home-percent-8{
+		left: 41%;
+		top: 3px;
+	}
+	.sch-home-percent-9{
+		left: 64%;
+		top: 4px;
+	}
+	.sch-home-percent-10{
+		left: 46%;
+		top: 6px;
+	}
+
+}
+
+@media only screen  and (min-width : 1224px){
+
+/*========== INDEX-CSS-START ==========*/
+
+	.page-sidebar .page-sidebar-menu > .cus-sidebar-search-wrapper{
+	    padding: 20px 10px 19px;
+	}
+	.page-header.navbar .page-logo{
+	    width: 45%;
+	}
+	.page-header.navbar .top-menu .navbar-nav {
+	    margin-right: 20px;
+	}
+	.cus-page-bar{
+	    margin-bottom: 0;
+	}
+	.page-bar .page-breadcrumb{
+	    padding: 12px 40px;
+	}
+	.page-inner-content-wrapper{
+	    padding: 25px 20px 10px;
+	}
+	.portlet.light.portlet-fit>.portlet-title{
+	    padding: 0px 1px 5px;
+	    margin: 5px 17px 10px;
+	}
+	.portlet.light>.portlet-title>.caption>.caption-subject,
+	.cus-portlet-light-bordered .caption>.caption-subject,
+	.cus-chapter-caption span{
+	    font-size: 22px;
+	}
+	.mt-element-step .step-default .active{
+	    width: 23%;
+	    margin: 0 1% 20px;
+	}
+	.mt-element-step .step-default .mt-step-col {
+	    padding-top: 30px;
+	    padding-bottom: 30px;
+	}
+	.cus-class-section, .cus-school-section,
+	.cus-schol-xm-section, .cus-kidigy-xm-section,
+	.cus-best-sub-section, .cus-improve-sub-section{
+	    padding: 20px 15px;
+	    margin-bottom: 10px;
+	}
+	.cus-result-inschool{
+	    padding-top: 38px;
+	}
+
+/* BAR CHART START */
+
+	.cus-bar-wrapper{
+	    margin-top: 8px;
+	    padding: 0px;
+	    text-align: center;
+	}
+	.chart-body{
+	    margin: 20px 0;
+	}
+	.float-left {
+	    float: left;
+	}
+	.bar {
+	    border-bottom: 1px solid #bdbdbd;
+	    border-left: 1px solid #bdbdbd;
+	    overflow: hidden;
+	}
+	.bar:after {
+	    content: '';
+	    width: 50px;
+	    height: 1px;
+	    background: red;
+	}
+	.bar-1 {
+	    width: 3%;
+	    height: 310px;
+	    background: #34a949;
+	    margin-right: 3%;
+	    margin-top: 219px;
+	    margin-left: 6%;
+	}
+	.bar-2 {
+	    width: 3%;
+	    height: 310px;
+	    background: #34a949;
+	    margin-right: 3%;
+	    margin-top: 219px;
+	}
+	.bar-3 {
+	    width: 3%;
+	    height: 400px;
+	    background: #34a949;
+	    margin-right: 3%;
+	    margin-top: 129px;
+	}
+	.bar-4 {
+	    width: 3%;
+	    height: 280px;
+	    background: #e84242;
+	    margin-right: 3%;
+	    margin-top: 249px;
+	}
+	.bar-5 {
+	    width: 3%;
+	    height: 310px;
+	    background: #34a949;
+	    margin-right: 3%;
+	    margin-top: 219px;
+	}
+	.bar-6 {
+	    width: 3%;
+	    height: 499px;
+	    background: #e84242;
+	    margin-right: 3%;
+	    margin-top: 30px;
+	}
+	.bar-7 {
+	    width: 3%;
+	    height: 310px;
+	    background: #34a949;
+	    margin-right: 3%;
+	    margin-top: 219px;
+	}
+	.bar-8 {
+	    width: 3%;
+	    height: 310px;
+	    margin-right: 3%;
+	    margin-top: 219px;
+	    background: #e84242;
+	}
+	.bar-9 {
+	    width: 3%;
+	    height: 240px;
+	    margin-right: 3%;
+	    margin-top: 289px;
+	    background: #34a949;
+	}
+	.bar-10 {
+	    width: 3%;
+	    height: 379px;
+	    margin-right: 3%;
+	    margin-top: 150px;
+	    background: #34a949;
+	}
+	.bar-11 {
+	    width: 3%;
+	    height: 310px;
+	    margin-right: 3%;
+	    margin-top: 219px;
+	    background: #e84242;
+	}
+	.bar-12 {
+	    width: 3%;
+	    height: 400px;
+	    margin-right: 3%;
+	    margin-top: 129px;
+	    background: #34a949;
+	}
+	.bar-13 {
+	    width: 3%;
+	    height: 264px;
+	    margin-right: 3%;
+	    margin-top: 265px;
+	    background: #e84242;
+	}
+	.bar-14 {
+	    width: 3%;
+	    height: 249px;
+	    margin-right: 3%;
+	    margin-top: 280px;
+	    background: #34a949;
+	}
+	.bar-15 {
+	    width: 3%;
+	    height: 120px;
+	    margin-right: 3%;
+	    margin-top: 409px;
+	    background: #34a949;
+	}
+	.cus-bar-type{
+	    display: inline;
+	    margin-right: 25px;
+	    font-size: 15px;
+	}
+
+	/* Inner class*/
+
+	.bar-1 .in {
+	    width:100%;
+	    height: 60px;
+	    background: #104572;
+	}
+	.bar-2 .in {
+	    width:100%;
+	    height: 60px;
+	    background: #104572;
+	}
+	.bar-3 .in {
+	    width:100%;
+	    height: 60px;
+	    background: #104572;
+	    box-sizing: border-box;
+	    padding-top: 7px;
+	}
+	.bar-4 .in {
+	    width: 100%;
+	    height: 60px;
+	    background: #104572;
+	}
+	.bar-5 .in {
+	    width:100%;
+	    height: 90px;
+	    background: #104572;
+	    box-sizing: border-box;
+	    padding-top: 7px;
+	}
+	.bar-6 .in {
+	    width:100%;
+	    height: 160px;
+	    background: #104572;
+	}
+	.bar-7 .in {
+	    width:100%;
+	    height: 90px;
+	    background: #104572;
+	    box-sizing: border-box;
+	    padding-top: 7px;
+	}
+	.bar-8 .in {
+	    width:100%;
+	    height: 90px;
+	    background: #104572;
+	}
+	.bar-9 .in {
+	    width:100%;
+	    height: 20px;
+	    background: #104572;
+	}
+	.bar-10 .in {
+	    width:100%;
+	    height: 158px;
+	    background: #104572;
+	    box-sizing: border-box;
+	    padding-top: 7px;
+	}
+	.bar-11 .in {
+	    width:100%;
+	    height: 88px;
+	    background: #104572;
+	    box-sizing: border-box;
+	    padding-top: 7px;
+	}
+	.bar-12 .in {
+	    width:100%;
+	    height: 178px;
+	    background: #104572;
+	}
+	.bar-13 .in {
+	    width:100%;
+	    height: 44px;
+	    background: #104572;
+	}
+	.bar-14 .in {
+	    width:100%;
+	    height: 30px;
+	    background: #104572;
+	    box-sizing: border-box;
+	    padding-top: 7px;
+	}
+	.bar-15 .in {
+	    width:100%;
+	    height: 35px;
+	    background: #104572;
+	}
+	.avg {
+	    width: 15px;
+	    height: 15px;
+	    border-radius: 50%;
+	    background: #febc11;
+	}
+	.avg-1 {
+	    margin: 20px auto;
+	}
+	.avg-2 {
+	    margin: 70px auto;
+	}
+	.avg-4 {
+	    margin: -37px auto;
+	}
+	.avg-6 {
+	    margin: -45px auto;
+	}
+	.avg-8 {
+	    margin: -52px auto;
+	}
+	.avg-9 {
+	    margin: 20px auto;
+	}
+	.avg-12 {
+	    margin: 20px auto;
+	}
+	.avg-13 {
+	    margin: -30px auto;
+	}
+	.avg-15 {
+	    margin: 20px auto;
+	}
+	.avge {
+	    width: 15px;
+	    height: 15px;
+	    border-radius: 50%;
+	    background: #febc11;
+	}
+	.avge-3 {
+	    margin: 110px auto;
+	}
+	.avge-5 {
+	    margin: 100px auto;
+	}
+	.avge-7 {
+	    margin: 120px auto;
+	}
+	.avge-10 {
+	    margin: 215px auto;
+	}
+	.avge-11 {
+	    margin: 40px auto;
+	}
+	.avge-14 {
+	    margin: 165px auto;
+	}
+
+/*========== STUDENT PROFILE SECTION ==========*/
+
+	.cus-pro-pic img {
+	    width: 100%;
+	}
+
+/*========== STUDENT STUDY SECTION ==========*/
+	
+	.cus-col-md-9{
+		width: 66%;
+	}
+	.cus-col-md-3{
+		width: 34%;
+	}
+	.cus-notes-body p{
+		font-size: 14px;
+	}
+	.chapter-list-item-bottom{
+	    width: 67%;
+	}
+	.chapter-practice-section a{
+    	padding: 10px 10%;
+	}
+	.cus-notes-body p{
+		font-size: 12px;
+	}
+	.chapter-practice-section, .chapter-exam-section{
+		font-size: 14px;
+	}
+	.download-img{
+		width: 17px;
+		height: 18px;
+	}
+	.chapter-exam-section a{
+	    padding: 10px 20%;
+	}
+	.exam-img{
+		width: 12px;
+		height: 14px;
+	}
+
+/*========== STUDENT-EXAM-START ==========*/
+
+	.cus-exam-body{
+	    width: 50%;
+	} 
+	.cus-exam-body h4{
+        font-size: 18px;
+    }
+	.cus-xm-submit-btn {
+		width: 100%;
+		margin: 40px auto 20px;
+	}
+	.cus-xm-submit-btn a, .cus-mcq-submit-btn a, 
+	.cus-mcq-remainder-btn a {
+	    padding: 15px 40px;
+	    font-size: 20px;
+	}
+
+/*========== STUDENT-MCQ-START ==========*/
+	
+	.cus-mcq-xm h4, .cus-exam-descriptive h4 {
+	    font-size: 18px;
+	}
+	.cus-descriptive-summery textarea{
+	    font-size: 14px;
+	}
+	.cus-mcq-submit-btn {
+	    width: 18%;
+	}
+	.cus-mcq-xm-timer {
+	    padding-left: 5%;
+	}
+	.cus-ml-30{
+		margin-left: 30px;
+	}
+	/*.cus-mcq-timer-body{*/
+	    /*background: rgb(255, 255, 255) none repeat scroll 0% 0%;*/
+	    /*width: 170px;*/
+	    /*height: 170px;*/
+	    /*margin: 10px 0;*/
+	    /*padding: 55px 44px;*/
+	    /*border: 20px solid rgb(130, 130, 130);*/
+	    /*border-radius: 50%;*/
+	    /*border-right: 20px solid #3176bb;*/
+	/*}*/
+
+/*========== STUDENT-MCQ-RESULT-START ==========*/
+
+	.cus-mcq-result-body h4 {
+	    font-size: 18px;
+	}
+	.cus-mcq-remainder p {
+	    font-size: 18px;
+	}
+	.cus-mcq-remainder-btn {
+	    margin: 20px auto;
+	}
+
+/*========== STUDENT-Congratulations-START ==========*/
+
+	.cus-congratulations-body {
+	    padding: 15px 30px;
+	    margin: 0;
+	}
+	.cus-congra-wish.cus-child-congra-wish {
+	    padding: 0 26%;
+	}
+	.cus-congra-wish h2 {
+	    font-size: 42px;
+	}
+	.cus-mcq-remainder-score {
+	    margin-top: 0;
+	}
+
+/*========== STUDENT-MODAL-START ==========*/
+
+	.cus-modal-dialog{
+	    margin: 40px auto 33px;
+	}
+	.cus-modal-time-dialog{
+		/*margin: 150px auto 33px;*/
+	}
+	.cus-exam-child-body{
+	    width: 65%;
+	}
+	.cus-exam-child-body h4{
+		font-size: 18px;
+	}
+	.cus-mcq-result-modal-child-body table{
+		width: 25%;
+		margin-left: 325px;
+	}
+	.cus-push-limit-modal-sub table{
+	    width: 60%;
+	    margin-left: 230px;
+	}
+	.cus-push-limit-modal-sub h4 {
+	    font-size: 18px;
+	}
+	.cus-mcq-child-remainder-btn{
+	    margin: 0px auto 30px;
+	}
+	.cus-push-marks table{
+		width: 27%;
+		margin-left: 292px;
+	}
+	.cus-finis-time-body{
+	    border: 1px solid #acacac;
+	    margin: 10px 0 0;
+	    padding: 25px 30px;
+	}
+	.cus-finis-time{
+	    overflow: hidden;
+	    width: 100%;
+	    padding: 0 24%;
+	}
+	.cus-finis-time h2{
+	    font-size: 32px;
+	    font-family: 'Montserrat', sans-serif;
+	    margin: 5px 0;
+	}
+	.cus-time-out{
+	    margin-bottom: 45px;
+	    color: #bdbdbd;
+	    font-size: 48px;
+	}
+	.cus-xm-modal-dialog {
+	    margin: 80px auto 30px;
+	}
+	.cus-time-left-contnt{
+	    margin-top: 30px;
+	}
+	.cus-time-left-contnt h2{
+	    font-size: 36px;
+	}
+	.btn-return{
+	    margin-right: 30px;
+	}
+
+/***** INFO SECTION *****/
+
+	.portlet.light.portlet-fit > .info-head-portlet-title{
+	    padding: 0 0 7px;
+	    margin: 0px 8px 20px;
+    	border-bottom: 1px solid #979394;
+	}
+	.portlet.light.portlet-fit > .info-portlet-title{
+		padding: 0;
+		margin: 8px 30px 20px;
+	}
+	.school-status-body{
+	    
+	}
+	.school-description-wrapper{
+		
+	}
+	.school-name img{
+		width: 35%;
+	}
+	.descrip-title {
+	    font-size: 16px;
+	}
+	.descrip-separator1 {
+	    margin: 1px 15px 0 100px;
+	}
+	.descrip-separator2 {
+	    margin: 1px 15px 0 54px;
+	}
+	.descrip-separator3 {
+	    margin: 1px 15px 0 15px;
+	}
+	.descrip-separator4 {
+	    margin: 1px 15px 0 53px;
+	}
+	.cus-sch-des-st table tr td h4{
+		font-size: 18px;
+	}
+	.class-list-section{
+	    margin: 30px 1% 10px;
+	}
+	.cus-class-btn-stl{
+    	padding: 10px 21%;
+	}
+	.cus-class-btn-stl a{
+		font-size: 18px;
+	}
+	.cus-col-sm-border{
+		padding-left: 15px;
+		padding-right: 15px;
+		font-size: 14px;
+	    border: 15px solid transparent;
+	    border-right: 1px solid #ddd;
+	}
+	.sub-schedule-bar1{
+	    margin-top: 17px;
+	}
+	.sub-schedule-bar2{
+    	margin-top: 25px;
+	}
+	.sub-schedule-bar3{
+	    margin-top: 26px;
+	}
+	.sub-schedule-bar4{
+	    margin-top: 25px;
+	}
+	.sub-schedule-bar5{
+	    margin-top: 25px;
+	}
+	.sub-schedule-bar6{
+	    margin-top: 25px;
+	}
+	.sub-schedule-bar7{
+	    margin-top: 25px;
+	}
+	.sub-schedule-bar8{
+	    margin-top: 25px;
+	}
+	.sub-schedule-bar9{
+	    margin-top: 25px;
+	}
+	.sub-schedule-bar10{
+	    margin-top: 25px;
+	}
+	.sub-schedule-1, .sub-schedule-2, .sub-schedule-3, .sub-schedule-4, .sub-schedule-5, 
+	.sub-schedule-6, .sub-schedule-7, .sub-schedule-8, .sub-schedule-9, .sub-schedule-10{
+	    font-size: 14px;
+	}
+	.doted{
+	    width: 9px;
+	    height: 9px;
+	}
+	.doted-1{
+	    top: 0;
+	    right: 45%;
+	}
+	.doted-2{
+	    top: 0;
+	    right: 55%;
+	}
+	.doted-3{
+	    top: 0;
+	    right: 35%;
+	}
+	.doted-4{
+	    top: 0;
+	    right: 44%;
+	}
+	.doted-sub-4{
+	    top: 0;
+	    right: 10%;
+	}
+	.doted-5{
+	    top: 0;
+	    right: 70%;
+	}
+	.doted-6{
+	    top: 0;
+	    right: 34%;
+	}
+	.doted-7{
+	    top: 0;
+	    right: 60%;
+	}
+	.doted-8{
+	    top: 0;
+	    right: 3%;
+	}
+	.doted-9{
+	    top: 0;
+	    right: 50%;
+	}
+	.doted-sub-9{
+	    top: 0;
+	    right: 0%;
+	}
+	.doted-10{
+	    top: 0;
+	    right: 70%;
+	}
+	.cus-top-performers-body ul{
+	    margin-top: 10px;
+	    margin-bottom: 20px;
+	    padding-left: 40px;
+	    list-style: none;
+	}
+	.cus-num-list{
+	    font-size: 18px;
+	}
+	.portlet-img{
+		float: left;
+	}
+	.portlet-img img{
+	    width: 120px;
+	    height: 120px;
+	}
+	.cus-mr-20{
+	    margin-right: 20px;
+	}
+	.performers-details-wrapper{
+		margin-top: 0;
+		margin-left: 0;
+	    font-size: 14px;
+	}
+	.info-perform-border1-ltr-rtl{
+	    margin: 0px 20px 0 123px;
+	}
+	.info-perform-border2-ltr-rtl{
+	    margin: 0px 20px 0px 126px;
+	}
+	.info-perform-border3-ltr-rtl{
+	    margin: 0px 20px 0px 56px;
+	}
+	.info-perform-border4-ltr-rtl{
+	    margin: 0px 20px 0px 40px;
+	}
+	.info-perform-border5-ltr-rtl{
+	    margin: 0px 20px 0px 93px;
+	}
+	.cus-top-performers-body ul li{
+	    margin-bottom: 30px;
+	}
+	.doted-bottom-1{
+	    background: #e7515a;
+	    top: 0;
+	    right: 65%;
+	}
+	.doted-average-1{
+	    background: #78c14d;
+	    top: 0;
+	    right: 55%;
+	}
+	.doted-top-1{
+	    background: #104572;
+	    top: 0;
+	    right: 40%;
+	}
+	.doted-bottom-2{
+	    background: #e7515a;
+	    top: 0;
+	    right: 78%;
+	}
+	.doted-average-2{
+	    background: #78c14d;
+	    top: 0;
+	    right: 64%;
+	}
+	.doted-top-2{
+	    background: #104572;
+	    top: 0;
+	    right: 52%;
+	}
+	.doted-bottom-3{
+	    background: #e7515a;
+	    top: 0;
+	    right: 57%;
+	}
+	.doted-average-3{
+	    background: #78c14d;
+	    top: 0;
+	    right: 46%;
+	}
+	.doted-top-3{
+	    background: #104572;
+	    top: 0;
+	    right: 30%;
+	}
+	.doted-bottom-4{
+	    background: #e7515a;
+	    top: 0;
+	    right: 38%;
+	}
+	.doted-average-4{
+	    background: #78c14d;
+	    top: 0;
+	    right: 28%;
+	}
+	.doted-top-4{
+	    background: #104572;
+	    top: 0;
+	    right: 10%;
+	}
+	.doted-bottom-5{
+	    background: #e7515a;
+	    top: 0;
+	    right: 96%;
+	}
+	.doted-average-5{
+	    background: #78c14d;
+	    top: 0;
+	    right: 83%;
+	}
+	.doted-top-5{
+	    background: #104572;
+	    top: 0;
+	    right: 68%;
+	}
+	.doted-bottom-6{
+	    background: #e7515a;
+	    top: 0;
+	    right: 55%;
+	}
+	.doted-average-6{
+	    background: #78c14d;
+	    top: 0;
+	    right: 43%;
+	}
+	.doted-top-6{
+	    background: #104572;
+	    top: 0;
+	    right: 27%;
+	}
+	.doted-bottom-7{
+	    background: #e7515a;
+	    top: 0;
+	    right: 88%;
+	}
+	.doted-average-7{
+	    background: #78c14d;
+	    top: 0;
+	    right: 76%;
+	}
+	.doted-top-7{
+	    background: #104572;
+	    top: 0;
+	    right: 62%;
+	}
+	.doted-bottom-8{
+	    background: #e7515a;
+	    top: 0;
+	    right: 32%;
+	}
+	.doted-average-8{
+	    background: #78c14d;
+	    top: 0;
+	    right: 20%;
+	}
+	.doted-top-8{
+	    background: #104572;
+	    top: 0;
+	    right: 5%;
+	}
+	.doted-bottom-9{
+	    background: #e7515a;
+	    top: 0;
+	    right: 82%;
+	}
+	.doted-average-9{
+	    background: #78c14d;
+	    top: 0;
+	    right: 71%;
+	}
+	.doted-top-9{
+	    background: #104572;
+	    top: 0;
+	    right: 52%;
+	}
+	.doted-bottom-10{
+	    background: #e7515a;
+	    top: 0;
+	    right: 30%;
+	}
+	.doted-average-10{
+	    background: #78c14d;
+	    top: 0;
+	    right: 18%;
+	}
+	.doted-top-10{
+	    background: #104572;
+	    top: 0;
+	    right: 1%;
+	}
+	.bash-bottom{
+	    font-size: 14px;
+	}
+	.cus-col-sm-1{
+	    padding-left: 15px;
+	    padding-right: 15px;
+	}
+	.info-bar-type{
+	    margin: 20px;
+	}
+	.cus-xm-schedule-body{
+	    margin-left: -35px;
+	}
+
+/***** Attendance & Marks SECTION *****/
+
+    .form-box-wrapper{
+        width: 65%;
+    }
+    .form-check-box-wrapper{
+        margin-bottom: 0;
+        padding-left: 25%;
+    }
+    .form-box-date-wrapper{
+        width: 65%;
+    }
+    .form-horizontal .cus-control-label{
+        padding-top: 18px;
+    }
+    .cus-form-control{
+        margin: 10px 0;
+    }
+    .form-box-date-wrapper{
+        margin: 10px auto;
+    }
+    .attend-mark-date-btn{
+    	margin-bottom: 0;
+    	line-height: 1.46 !important;
+    }
+    .control-label.attend-mark-date-label{
+    	padding-top: 15px;
+    }
+    .portlet.light.portlet-fit > .attend-mark-port-title{
+    	margin: 5px 17px 10px;
+    }
+
+/*========== Student-Study-Second-Modal-Design  ==========*/
+
+    .cus-exam-modal-dialog {
+        margin: 80px auto 30px;
+    }
+    .portlet.light.portlet-fit > 
+    .std-study-second-design-subtitle{
+        margin: 20px;
+    }
+    .std-study-second-design-portlet-body{
+        padding: 0px 10px 20px;
+    }
+    .cus-xm-descrip ul{
+        padding-left: 40px;
+    }
+    .cus-xm-separator1{
+        margin: 0 30px 0 116px;
+    }
+    .cus-xm-separator2{
+        margin: 0 30px 0 75px;
+    }
+    .cus-xm-separator3{
+        margin: 0 30px 0 110px;
+    }
+    .cus-xm-separator4{
+        margin: 0 30px;
+    }
+    .cus-xm-separator5{
+        margin: 0 30px 0 132px;
+    }
+    .cus-xm-separator6{
+        margin: 0 30px 0 94px;
+    }
+    .cus-xm-separator7{
+        margin: 0 30px 0 90px;
+    }
+    .cus-xm-descrip{
+        padding: 30px 0 20px;
+    }
+
+/***** Student Exam Status Third Design *****/
+
+    .xm-3rd-portlet-title{
+        text-align: left;
+    }
+    .xm-3rd-sm-display{
+        display: inline-block;
+    }
+    .xm-3rd-sm-dis-hidden{
+        display: inline-block;
+    }
+
+/*========== SCHOOL HOME SECTION ==========*/
+
+	.home-total-std{
+	    text-align: right;
+	}
+	.home-attnd-separator{
+	    padding-top: 15px;
+    	margin-left: 0;
+	}
+
+/*===== Result Summary Bar Chart =====*/
+
+	.sub-sch-home-bar1 {
+	    margin-top: 13px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar2 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar3 {
+	    margin-top: 26px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar4 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar5 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar6 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar7 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar8 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar9 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar10 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.barchart-bottom-1 {
+	    top: 0;
+	    right: 60%;
+	    width: 40%;
+	}
+	.barchart-average-1 {
+	    top: 0;
+	    right: 52%;
+	    width: 1%;
+	}
+	.barchart-top-1 {
+	    top: 0;
+	    right: 50%;
+	    width: 10%;
+	}
+	.barchart-bottom-2 {
+	    top: 0;
+	    right: 60%;
+	    width: 40%;
+	}
+	.barchart-average-2 {
+	    top: 0;
+	    right: 74%;
+	    width: 1%;
+	}
+	.barchart-top-2 {
+	    top: 0;
+	    right: 50%;
+	    width: 10%;
+	}
+	.barchart-bottom-3 {
+	    top: 0;
+	    right: 39%;
+	    width: 61%;
+	}
+	.barchart-average-3 {
+	    top: 0;
+	    right: 30%;
+	    width: 1%;
+	}
+	.barchart-top-3 {
+	    top: 0;
+	    right: 25%;
+	    width: 14%;
+	}
+	.barchart-bottom-4 {
+	    top: 1px;
+	    right: 68%;
+	    width: 32%;
+	}
+	.barchart-average-4 {
+	    top: 1px;
+	    right: 90%;
+	    width: 1%;
+	}
+	.barchart-top-4 {
+	    top: 1px;
+	    right: 60%;
+	    width: 8%;
+	}
+	.barchart-bottom-5 {
+	    top: 2px;
+	    right: 68%;
+	    width: 32%;
+	}
+	.barchart-average-5 {
+	    top: 2px;
+	    right: 67%;
+	    width: 1%;
+	}
+	.barchart-top-5 {
+	    top: 2px;
+	    right: 50%;
+	    width: 18%;
+	}
+	.barchart-bottom-6 {
+	    top: 3px;
+	    right: 39%;
+	    width: 61%;
+	}
+	.barchart-average-6 {
+	    top: 3px;
+	    right: 21%;
+	    width: 1%;
+	}
+	.barchart-top-6 {
+	    top: 3px;
+	    right: 14%;
+	    width: 25%;
+	}
+	.barchart-bottom-7 {
+	    top: 4px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-7 {
+	    top: 4px;
+	    right: 55%;
+	    width: 1%;
+	}
+	.barchart-top-7 {
+	    top: 4px;
+	    right: 50%;
+	    width: 17%;
+	}
+	.barchart-bottom-8 {
+	    top: 5px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-8 {
+	    top: 5px;
+	    right: 70%;
+	    width: 1%;
+	}
+	.barchart-top-8 {
+	    top: 5px;
+	    right: 60%;
+	    width: 7%;
+	}
+	.barchart-bottom-9 {
+	    top: 6px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-9 {
+	    top: 6px;
+	    right: 50%;
+	    width: 1%;
+	}
+	.barchart-top-9 {
+	    top: 6px;
+	    right: 37%;
+	    width: 30%;
+	}
+	.barchart-bottom-10 {
+	    top: 8px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-10 {
+	    top: 8px;
+	    right: 75%;
+	    width: 1%;
+	}
+	.barchart-top-10 {
+	    top: 8px;
+	    right: 55%;
+	    width: 12%;
+	}
+	.sch-home-percent-1{
+		left: 51%;
+		top: -3px;
+	}
+	.sch-home-percent-2{
+		left: 51%;
+		top: -3px;
+	}
+	.sch-home-percent-3{
+		left: 76%;
+		top: -3px;
+	}
+	.sch-home-percent-4{
+		left: 41%;
+		top: -2px;
+	}
+	.sch-home-percent-5{
+		left: 51%;
+		top: -1px;
+	}
+	.sch-home-percent-6{
+		left: 87%;
+		top: 1px;
+	}
+	.sch-home-percent-7{
+		left: 51%;
+		top: 2px;
+	}
+	.sch-home-percent-8{
+		left: 41%;
+		top: 3px;
+	}
+	.sch-home-percent-9{
+		left: 64%;
+		top: 4px;
+	}
+	.sch-home-percent-10{
+		left: 46%;
+		top: 6px;
+	}
+
+}
+
+/*********** OTHER DEVICE CSS START ************/
+
+@media only screen and (min-device-width : 992px) and (max-device-width : 1223px){
+	
+	.cus-height {
+	    height: 237px !important;
+	}
+	.chapter-practice-section a{
+	    padding: 8px 10%;
+	}
+	.chapter-exam-section a{
+	    padding: 8px 20%;
+	}
+	.mt-element-list .list-news.ext-1 .list-thumb{
+	    width: 65px;
+	}
+	.cus-std-study-list-contnt{
+	    font-size: 11px;
+	}
+	.cus-std-study-list-contnt p{
+	    width: 105px;
+	}
+	.cus-std-study-list-datetime{
+	    font-size: 12px;
+	}
+
+	.cus-push-limit-modal-sub table{
+	    margin-left: 185px;
+	}
+	.cus-mcq-result-modal-child-body table {
+	    width: 30%;
+	    margin-left: 310px;
+	}
+	.cus-congratulations-body {
+	    padding: 20px 130px 10px;
+	}
+	.cus-mcq-remainder-score table {
+	    width: 25%;
+		margin-left: 325px;
+	}
+	.cus-congra-wish.cus-child-congra-wish {
+	    padding: 0 20%;
+	}
+	.cus-mcq-remainder-score.cus-mcq-remainder-score table {
+	    width: 25%;
+		margin-left: 335px;
+	}
+	.cus-mcq-remainder-score {
+	    margin-top: 0;
+	}
+	.cus-mcq-remainder-score.cus-push-marks table{
+		width: 38%;
+		margin-left: 210px;
+	}
+	.cus-xm-submit-btn a, .cus-mcq-submit-btn a, 
+	.cus-mcq-remainder-btn a {
+	    padding: 15px 40px;
+	    font-size: 20px;
+	}
+	.cus-xm-start-btn, .cus-xm-cancel-btn{
+		padding: 15px 40px;
+	    font-size: 20px;
+	}
+	.cus-modal-time-dialog{
+		margin: 150px auto 33px;
+	}
+	/*.cus-mcq-timer-body {*/
+	    /*background: rgb(255, 255, 255) none repeat scroll 0% 0%;*/
+	    /*width: 140px;*/
+	    /*height: 140px;*/
+	    /*margin: 10px 0;*/
+	    /*padding: 40px 29px;*/
+	    /*border: 20px solid rgb(130, 130, 130);*/
+	    /*border-radius: 50%;*/
+	    /*border-right: 20px solid #3176bb;*/
+	/*}*/
+	.chapter-list-item-bottom{
+	    width: 85%;
+	}
+
+/*========== Student-Study-Second-Modal-Design  ==========*/
+
+    .cus-exam-modal-dialog {
+        margin: 80px auto 30px;
+    }
+    .portlet.light.portlet-fit > 
+    .std-study-second-design-subtitle{
+        margin: 20px;
+    }
+    .std-study-second-design-portlet-body{
+        padding: 0px 10px 20px;
+    }
+    .cus-xm-descrip ul{
+        padding-left: 40px;
+    }
+    .cus-xm-separator1{
+        margin: 0 30px 0 116px;
+    }
+    .cus-xm-separator2{
+        margin: 0 30px 0 75px;
+    }
+    .cus-xm-separator3{
+        margin: 0 30px 0 110px;
+    }
+    .cus-xm-separator4{
+        margin: 0 30px;
+    }
+    .cus-xm-separator5{
+        margin: 0 30px 0 132px;
+    }
+    .cus-xm-separator6{
+        margin: 0 30px 0 94px;
+    }
+    .cus-xm-separator7{
+        margin: 0 30px 0 90px;
+    }
+    .cus-xm-descrip{
+        padding: 30px 0 20px;
+    }
+
+/***** Student Exam Status Third Design *****/
+
+    .xm-3rd-portlet-title{
+        text-align: center;
+    }
+    .xm-3rd-sm-display{
+        display: inline-block;
+    }
+    .xm-3rd-sm-dis-hidden{
+        display: inline-block;
+    }
+
+/***** INFO SECTION *****/
+
+	.school-status-body{
+	    
+	}
+	.school-description-wrapper{
+		
+	}
+	.class-list-section{
+	    margin: 35px 1% 15px;
+	    padding: 0;
+	}
+	.school-name h2 {
+	    font-size: 30px;
+	}
+	.school-name img{
+		width: 60px;
+	}
+	.cus-sch-des-st table tr td h4{
+		font-size: 18px;
+	}
+	.cus-class-btn-stl{
+		padding: 10px 24%;
+	}
+	.cus-class-btn-stl a{
+		font-size: 13px;
+	}
+	.cus-col-sm-border {
+	    border: 5px solid transparent;
+	    border-right: 1px solid #ddd;
+	    font-size: 12px;
+	}
+	.sub-schedule-bar1 {
+	    margin-top: 28px;
+	}
+	.sub-schedule-bar2{
+    	margin-top: 45px;
+	}
+	.sub-schedule-bar3{
+	    margin-top: 45px;
+	}
+	.sub-schedule-bar4{
+	    margin-top: 45px;
+	}
+	.sub-schedule-bar5{
+	    margin-top: 45px;
+	}
+	.sub-schedule-bar6{
+	    margin-top: 45px;
+	}
+	.sub-schedule-bar7{
+	    margin-top: 45px;
+	}
+	.sub-schedule-bar8{
+	    margin-top: 45px;
+	}
+	.sub-schedule-bar9{
+	    margin-top: 45px;
+	}
+	.sub-schedule-bar10{
+	    margin-top: 45px;
+	}
+	.sub-schedule-1, .sub-schedule-2, .sub-schedule-3, .sub-schedule-4,
+	.sub-schedule-5, .sub-schedule-6, .sub-schedule-7, .sub-schedule-8,
+	.sub-schedule-9, .sub-schedule-10{
+		padding-left: 9%;
+		font-size: 14px;
+	}
+	.doted{
+	    width: 9px;
+	    height: 9px;
+	}
+	.doted-1{
+	    top: 0;
+	    right: 45%;
+	}
+	.doted-2{
+	    top: 0;
+	    right: 55%;
+	}
+	.doted-3{
+	    top: 0;
+	    right: 35%;
+	}
+	.doted-4{
+	    top: 0;
+	    right: 44%;
+	}
+	.doted-sub-4{
+	    top: 0;
+	    right: 10%;
+	}
+	.doted-5{
+	    top: 0;
+	    right: 70%;
+	}
+	.doted-6{
+	    top: 0;
+	    right: 34%;
+	}
+	.doted-7{
+	    top: 0;
+	    right: 60%;
+	}
+	.doted-8{
+	    top: 0;
+	    right: 3%;
+	}
+	.doted-9{
+	    top: 0;
+	    right: 50%;
+	}
+	.doted-sub-9{
+	    top: 0;
+	    right: 0%;
+	}
+	.doted-10{
+	    top: 0;
+	    right: 70%;
+	}
+	.cus-top-performers-body ul{
+	    margin-top: 20px;
+	    margin-bottom: 20px;
+	    padding-left: 40px;
+	    list-style: none;
+	}
+	.cus-num-list{
+	    font-size: 18px;
+	}
+	.portlet-img{
+		float: left;
+	}
+	.portlet-img img{
+	    width: 120px;
+	    height: 120px;
+	}
+	.cus-mr-20{
+	    margin-right: 20px;
+	}
+	.performers-details-wrapper{
+		margin-top: 5px;
+		margin-left: 0;
+	    font-size: 14px;
+	}
+	.info-perform-border1-ltr-rtl{
+	    margin: 0px 20px 0 123px;
+	}
+	.info-perform-border2-ltr-rtl{
+	    margin: 0px 20px 0px 126px;
+	}
+	.info-perform-border3-ltr-rtl{
+	    margin: 0px 20px 0px 56px;
+	}
+	.info-perform-border4-ltr-rtl{
+	    margin: 0px 20px 0px 40px;
+	}
+	.info-perform-border5-ltr-rtl{
+	    margin: 0px 20px 0px 93px;
+	}
+	.cus-top-performers-body ul li{
+	    margin-bottom: 30px;
+	}
+	.doted-bottom-1{
+	    background: #e7515a;
+	    top: 0;
+	    right: 65%;
+	}
+	.doted-average-1{
+	    background: #78c14d;
+	    top: 0;
+	    right: 55%;
+	}
+	.doted-top-1{
+	    background: #104572;
+	    top: 0;
+	    right: 40%;
+	}
+	.doted-bottom-2{
+	    background: #e7515a;
+	    top: 0;
+	    right: 78%;
+	}
+	.doted-average-2{
+	    background: #78c14d;
+	    top: 0;
+	    right: 64%;
+	}
+	.doted-top-2{
+	    background: #104572;
+	    top: 0;
+	    right: 52%;
+	}
+	.doted-bottom-3{
+	    background: #e7515a;
+	    top: 0;
+	    right: 57%;
+	}
+	.doted-average-3{
+	    background: #78c14d;
+	    top: 0;
+	    right: 46%;
+	}
+	.doted-top-3{
+	    background: #104572;
+	    top: 0;
+	    right: 30%;
+	}
+	.doted-bottom-4{
+	    background: #e7515a;
+	    top: 0;
+	    right: 38%;
+	}
+	.doted-average-4{
+	    background: #78c14d;
+	    top: 0;
+	    right: 28%;
+	}
+	.doted-top-4{
+	    background: #104572;
+	    top: 0;
+	    right: 10%;
+	}
+	.doted-bottom-5{
+	    background: #e7515a;
+	    top: 0;
+	    right: 96%;
+	}
+	.doted-average-5{
+	    background: #78c14d;
+	    top: 0;
+	    right: 83%;
+	}
+	.doted-top-5{
+	    background: #104572;
+	    top: 0;
+	    right: 68%;
+	}
+	.doted-bottom-6{
+	    background: #e7515a;
+	    top: 0;
+	    right: 55%;
+	}
+	.doted-average-6{
+	    background: #78c14d;
+	    top: 0;
+	    right: 43%;
+	}
+	.doted-top-6{
+	    background: #104572;
+	    top: 0;
+	    right: 27%;
+	}
+	.doted-bottom-7{
+	    background: #e7515a;
+	    top: 0;
+	    right: 88%;
+	}
+	.doted-average-7{
+	    background: #78c14d;
+	    top: 0;
+	    right: 76%;
+	}
+	.doted-top-7{
+	    background: #104572;
+	    top: 0;
+	    right: 62%;
+	}
+	.doted-bottom-8{
+	    background: #e7515a;
+	    top: 0;
+	    right: 32%;
+	}
+	.doted-average-8{
+	    background: #78c14d;
+	    top: 0;
+	    right: 20%;
+	}
+	.doted-top-8{
+	    background: #104572;
+	    top: 0;
+	    right: 5%;
+	}
+	.doted-bottom-9{
+	    background: #e7515a;
+	    top: 0;
+	    right: 82%;
+	}
+	.doted-average-9{
+	    background: #78c14d;
+	    top: 0;
+	    right: 71%;
+	}
+	.doted-top-9{
+	    background: #104572;
+	    top: 0;
+	    right: 52%;
+	}
+	.doted-bottom-10{
+	    background: #e7515a;
+	    top: 0;
+	    right: 30%;
+	}
+	.doted-average-10{
+	    background: #78c14d;
+	    top: 0;
+	    right: 18%;
+	}
+	.doted-top-10{
+	    background: #104572;
+	    top: 0;
+	    right: 1%;
+	}
+	.bash-bottom{
+	    font-size: 14px;
+	}
+	.cus-col-sm-1{
+	    padding-left: 15px;
+	    padding-right: 15px;
+	}
+	.info-bar-type{
+	    margin: 20px;
+	}
+	.cus-xm-schedule-body {
+	    margin-left: -35px;
+	}
+
+/*===== Result Summary Bar Chart =====*/
+
+	.sub-sch-home-bar1 {
+	    margin-top: 13px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar2 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar3 {
+	    margin-top: 26px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar4 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar5 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar6 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar7 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar8 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar9 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.sub-sch-home-bar10 {
+	    margin-top: 25px;
+	    width: 96%;
+	}
+	.barchart-bottom-1 {
+	    top: 0;
+	    right: 60%;
+	    width: 40%;
+	}
+	.barchart-average-1 {
+	    top: 0;
+	    right: 52%;
+	    width: 1%;
+	}
+	.barchart-top-1 {
+	    top: 0;
+	    right: 50%;
+	    width: 10%;
+	}
+	.barchart-bottom-2 {
+	    top: 0;
+	    right: 60%;
+	    width: 40%;
+	}
+	.barchart-average-2 {
+	    top: 0;
+	    right: 74%;
+	    width: 1%;
+	}
+	.barchart-top-2 {
+	    top: 0;
+	    right: 50%;
+	    width: 10%;
+	}
+	.barchart-bottom-3 {
+	    top: 0;
+	    right: 39%;
+	    width: 61%;
+	}
+	.barchart-average-3 {
+	    top: 0;
+	    right: 30%;
+	    width: 1%;
+	}
+	.barchart-top-3 {
+	    top: 0;
+	    right: 25%;
+	    width: 14%;
+	}
+	.barchart-bottom-4 {
+	    top: 1px;
+	    right: 68%;
+	    width: 32%;
+	}
+	.barchart-average-4 {
+	    top: 1px;
+	    right: 90%;
+	    width: 1%;
+	}
+	.barchart-top-4 {
+	    top: 1px;
+	    right: 60%;
+	    width: 8%;
+	}
+	.barchart-bottom-5 {
+	    top: 2px;
+	    right: 68%;
+	    width: 32%;
+	}
+	.barchart-average-5 {
+	    top: 2px;
+	    right: 67%;
+	    width: 1%;
+	}
+	.barchart-top-5 {
+	    top: 2px;
+	    right: 50%;
+	    width: 18%;
+	}
+	.barchart-bottom-6 {
+	    top: 3px;
+	    right: 39%;
+	    width: 61%;
+	}
+	.barchart-average-6 {
+	    top: 3px;
+	    right: 21%;
+	    width: 1%;
+	}
+	.barchart-top-6 {
+	    top: 3px;
+	    right: 14%;
+	    width: 25%;
+	}
+	.barchart-bottom-7 {
+	    top: 4px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-7 {
+	    top: 4px;
+	    right: 55%;
+	    width: 1%;
+	}
+	.barchart-top-7 {
+	    top: 4px;
+	    right: 50%;
+	    width: 17%;
+	}
+	.barchart-bottom-8 {
+	    top: 5px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-8 {
+	    top: 5px;
+	    right: 70%;
+	    width: 1%;
+	}
+	.barchart-top-8 {
+	    top: 5px;
+	    right: 60%;
+	    width: 7%;
+	}
+	.barchart-bottom-9 {
+	    top: 6px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-9 {
+	    top: 6px;
+	    right: 50%;
+	    width: 1%;
+	}
+	.barchart-top-9 {
+	    top: 6px;
+	    right: 37%;
+	    width: 30%;
+	}
+	.barchart-bottom-10 {
+	    top: 8px;
+	    right: 67%;
+	    width: 33%;
+	}
+	.barchart-average-10 {
+	    top: 8px;
+	    right: 75%;
+	    width: 1%;
+	}
+	.barchart-top-10 {
+	    top: 8px;
+	    right: 55%;
+	    width: 12%;
+	}
+	.sch-home-percent-1{
+		left: 51%;
+		top: -3px;
+	}
+	.sch-home-percent-2{
+		left: 51%;
+		top: -3px;
+	}
+	.sch-home-percent-3{
+		left: 76%;
+		top: -3px;
+	}
+	.sch-home-percent-4{
+		left: 41%;
+		top: -2px;
+	}
+	.sch-home-percent-5{
+		left: 51%;
+		top: -1px;
+	}
+	.sch-home-percent-6{
+		left: 87%;
+		top: 1px;
+	}
+	.sch-home-percent-7{
+		left: 51%;
+		top: 2px;
+	}
+	.sch-home-percent-8{
+		left: 41%;
+		top: 3px;
+	}
+	.sch-home-percent-9{
+		left: 64%;
+		top: 4px;
+	}
+	.sch-home-percent-10{
+		left: 46%;
+		top: 6px;
+	}
+
+}

@@ -1,0 +1,1238 @@
+/* here you can put your own css to customize and override the theme */
+.displayUnlock {
+    display: block;
+}
+
+.displayLock {
+    display: none;
+}
+
+.required {
+    color: #a94442;
+}
+
+.cFont-blue {
+    color: #578ebe;
+}
+.cFont-red {
+    color: #D91E18;
+}
+.cFont-yellow {
+    color: #F7CA18;
+}
+.cFont-green {
+    color: #26C281;
+}
+
+/*END CSS CREATED BY : RANA*/
+
+/*BEGIN CSS CREATED BY: Ejaj*/
+label.error{
+    color:#FF0000;
+}
+/*END CSS CREATED BY: Ejaj*/
+
+body{
+    margin: 0;
+    padding: 0;
+}
+body, h1, h2, h3, h4, h5, h6, .caption, .cus-username,
+.cus-class-section, .cus-schol-xm-section,
+.cus-kidigy-xm-section, .cus-best-sub-section,
+.cus-improve-sub-section, .sidebar-portfolio{
+    font-family: 'Roboto', sans-serif;
+}
+
+.mt-element-step .step-default
+.active .mt-step-content{
+    font-family: 'PT Sans', sans-serif;
+    color: #fff!important;
+    font-size: 15px;
+}
+.cus-default-center{
+    width: 100%;
+    text-align: center;
+}
+.cus-mtb{
+    margin: 5px 0;
+}
+.cus-ml-10{
+    margin-left: 10px;
+}
+
+.header-form-radius{
+    border-radius: 0;
+}
+.page-content{
+    background-color: #eef0f4;
+}
+.page-content-wrapper .page-content{
+    padding: 0;
+}
+.page-content-wrapper .std-mcq-result-part-content{
+    margin-left: 0px;
+}
+.page-inner-content-wrapper {
+    padding: 25px 20px 10px;
+}
+.navbar{
+    border-radius: 0;
+}
+.page-header.navbar .page-logo{
+    padding: 6px 0 6px 20px;
+    margin: 7px 0;
+}
+.page-header.navbar{
+    background-color: #2b3643;
+    height: 60px;
+    min-height: 60px;
+}
+.page-header.navbar .menu-toggler.sidebar-toggler{
+    float: left;
+    margin: 4px 10px 0 0;
+}
+.page-header.navbar .top-menu{
+    margin: 5px 0;
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown > .dropdown-toggle > i {
+    font-size: 2em;
+}
+.page-header.navbar .top-menu .navbar-nav > li.dropdown > .dropdown-toggle > .badge {
+    font-family: "Open Sans",sans-serif;
+    font-weight: 300;
+    padding: 3px 6px;
+    position: absolute;
+    right: 6px;
+    top: 6px;
+}
+.cus-badge-default{
+    background-color: #d91e18;
+}
+.page-bar{
+    background-color: #3e4b5b;
+    border-radius: 0;
+    margin-bottom: 0px;
+}
+.page-bar .page-breadcrumb{
+
+}
+.page-header.navbar .menu-toggler.responsive-toggler{
+    margin: 18px 6px 0;
+}
+.page-bar .page-breadcrumb>li>a,
+.page-bar .page-breadcrumb>li>span{
+    color: #bdbbbb;
+}
+.page-sidebar{
+    background-color: #212325;
+}
+.input-group .cus-form-control{
+    border-radius: 0 !important;
+}
+.cus-head-submit:hover{
+    color: #ffffff;
+}
+.sidebar-profile-wrapper{
+
+}
+.sidebar-profile-inner-wrapper{
+    padding: 40px 10px 38px 35px;
+}
+.sidebar-portfolio{
+    padding: 20px 0;
+}
+.cus-pro-img{
+    width: 70px;
+    height: auto;
+    margin-right: 10px;
+}
+.cus-sidebar-portfolio-title{
+    margin: 0;
+    color: #fff;
+    font-size: 13px;
+}
+.page-sidebar .page-sidebar-menu>li.active.open>a:hover,
+.page-sidebar .page-sidebar-menu>li.active>a:hover{
+    background: #3f4b5c;
+}
+.page-sidebar .page-sidebar-menu>li.active.open>a,
+.page-sidebar .page-sidebar-menu>li.active>a{
+    background: #3f4b5c;
+}
+.page-sidebar .page-sidebar-menu>li{
+    margin-bottom: 14px;
+}
+.page-sidebar .page-sidebar-menu > .cus-sidebar-search-wrapper{
+    background: #000;
+}
+.page-sidebar .page-sidebar-menu > .cus-sidebar-search-wrapper a{
+    background: transparent;
+    border-top: none;
+}
+.page-sidebar .page-sidebar-menu > .cus-sidebar-search-wrapper:hover a{
+    background: transparent;
+}
+.page-sidebar .page-sidebar-menu .sub-menu>li.active>a,
+.page-sidebar .page-sidebar-menu .sub-menu>li.open>a{
+    background: #4e6275!important;
+}
+.page-sidebar .page-sidebar-menu>li>a{
+    background: #202020;
+    color: #ffffff;
+}
+.page-sidebar .page-sidebar-menu .sub-menu{
+    margin: 0 0 8px;
+}
+.page-sidebar .page-sidebar-menu .sub-menu li{
+    padding-left: 15%;
+}
+.page-sidebar .page-sidebar-menu .sub-menu>li>a{
+    padding: 6px 15px 6px 5px;
+    color: #ffffff;
+}
+
+.portlet.light.portlet-fit > .cus-courses-portlet-body{
+    padding: 10px 16px 20px;
+}
+.page-sidebar .page-sidebar-menu>li.active>a>.selected,
+.page-sidebar-closed.page-sidebar-fixed
+.page-sidebar:hover .page-sidebar-menu>li.active>a>.selected{
+    border-right: 12px solid #eef0f4;
+}
+.cus-sub-img-width{
+    width: 25%;
+    height: auto;
+}
+.mt-element-step .step-default a{
+    text-decoration: none;
+}
+.mt-element-step .step-default .active{
+    background-color: #3175bc!important;
+}
+.portlet{
+    margin-bottom: 30px;
+    border-radius: 0px;
+}
+.portlet.light.portlet-fit>.portlet-title{
+
+}
+.portlet.light.bordered>.portlet-title{
+    border-bottom: 1px solid #ddd;
+}
+.portlet.light.bordered{
+    border: 1px solid #cbc8c8 !important;
+    box-shadow: 0 0 20px 0px #ced1d5;
+}
+.mt-element-list .list-news.mt-list-container{
+    border-left: 0 solid;
+    border-right: 0 solid;
+    border-bottom: 0 solid;
+}
+.cus-list-thumb{
+    width: 50px !important;
+    height: 70px !important;
+}
+.mt-element-list .list-news.ext-1.mt-list-container ul>.mt-list-item>.cus-list-item-content,
+.mt-element-list .list-news.ext-1.mt-list-container ul>.mt-list-item>.cus-list-datetime{
+    padding-left: 60px;
+}
+.tabbable-line>.nav-tabs>li.active{
+    border-bottom: 4px solid #424243;
+}
+.tabbable-line>.tab-content{
+    border-top: 1px solid #979394;
+}
+.mt-element-step .step-default .mt-step-number{
+    border-radius: 0;
+    padding: 0;
+}
+.cus-portlet-light-bordered{
+    background-color: #fff;
+    overflow: hidden;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-bottom: 35px!important;
+}
+.fc-toolbar{
+    display: none;
+}
+.tabbable-line > .tab-content{
+    padding: 0;
+}
+.cus-result-sheet-wrapper{
+    padding-left: 15px;
+    padding-right: 0px;
+    margin-right: -17px;
+}
+.cus-class-section, .cus-school-section,
+.cus-schol-xm-section, .cus-kidigy-xm-section,
+.cus-best-sub-section, .cus-improve-sub-section{
+    margin-bottom: 10px;
+}
+.cus-class-section{
+    background: #34a949;
+    color: #ffffff;
+}
+.cus-school-section{
+    background: #3176bc;
+}
+.cus-schol-xm-section{
+    background: #3176bc;
+}
+.cus-kidigy-xm-section{
+    background: #e84242;
+}
+.cus-best-sub-section{
+    background: #34a949;
+}
+.cus-improve-sub-section{
+    background: #e84242;
+}
+.cus-result-title, .cus-result-inschool{
+    float: left;
+    color: #ffffff;
+    font-size: 12px;
+}
+.cus-result-title{
+    margin-right: 5px;
+    padding: 5px 0;
+    text-align: right;
+}
+.cus-result-score{
+    float: left;
+    margin-right: 10px;
+    color: #ffffff;
+    font-size: 54px;
+    line-height: 54px;
+}
+.cus-result-inschool{
+
+}
+.avg-schol-xm{
+    text-align: left;
+}
+.cus-mr{
+    margin-right: 10px;
+}
+.cus-best-sub-wrapper{
+    padding-left: 10px;
+    color: #ffffff;
+}
+.cus-best-sub-wrapper h3, .cus-best-sub-wrapper p{
+    margin: 0;
+}
+.cus-best-sub-wrapper p{
+    font-size: 11px;
+}
+.cus-dropdown-menu, .cus-dropdown-notify{
+    background: #21282e;
+    border: 1px solid #222222;
+}
+.page-header.navbar .top-menu
+.navbar-nav>li.dropdown-extended
+.dropdown-menu{
+    border: 1px solid #222222;
+}
+.page-header.navbar
+.top-menu .navbar-nav>li.dropdown-extended
+.dropdown-menu .dropdown-menu-list>li>a:hover{
+    background: #3e4b5b;
+}
+.page-header.navbar .top-menu
+.navbar-nav>li.dropdown-extended
+.dropdown-menu .dropdown-menu-list>li>a{
+    border-bottom: 1px solid #5c5c61!important;
+    color: #bbbebf;
+}
+.page-header.navbar .top-menu
+.navbar-nav>li.dropdown-inbox
+.dropdown-menu .dropdown-menu-list
+.subject .from{
+    color: #e1e8e9;
+}
+.dropdown-menu>li.active:hover>a,
+.dropdown-menu>li.active>a,
+.dropdown-menu>li:hover>a{
+    background-color: #3e4b5b;
+}
+.cus-dropdown-menu li a{
+    margin: 0 10px;
+    padding: 10px 16px;
+    border-bottom: 1px solid #5c5c61;
+}
+.cus-dropdown-menu li a, .cus-dropdown-menu li i{
+    color: #b8bcbc !important;
+}
+.page-header.navbar
+.top-menu .navbar-nav>li.dropdown
+.dropdown-menu:after{
+    border-bottom: 6px solid #21282e;
+}
+.cus-calendar-header{
+    padding: 5%;
+    background: #3176bc;
+    text-align: center;
+}
+.cus-calendar-header h3{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.cus-calendar-header a{
+    color: #ffffff;
+}
+.page-footer .page-footer-inner{
+    color: #f7fafb;
+    text-align: center;
+    display: block;
+    float: none;
+}
+
+/*========== STUDENT PROFILE SECTION ==========*/
+
+.cus-std-profile-wrapper{
+    padding-left: 15px;
+    padding-right: 32px;
+    margin-right: -17px;
+}
+.cus-portlet-header{
+    padding: 20px;
+    background: #3176bc;
+}
+.cus-pro-pic-size{
+    width: 100%;
+    height: auto;
+}
+.std-contacts-section, .std-personal-dtl{
+    margin: 25px 0;
+    padding-top: 10px;
+    border-top: 1px solid #979394;
+}
+.cus-std-class{
+    font-size: 19px;
+    color: #4e6275;
+}
+.cus-st-portlet{
+
+}
+.cus-st-caption{
+    text-align: center;
+    float: none !important;
+}
+.std-personal-dtl{
+    margin: 0;
+    border: 0px solid;
+}
+.std-personal-dtl h4{
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #979394;
+}
+.cus-std-sm-pic{
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 10px;
+    float: left;
+}
+.cus-std-quick-dtl{
+    margin-bottom: 20px;
+    margin-right: 20px;
+    float: left;
+}
+.cus-std-quick-add{
+    margin-bottom: 10px;
+    float: left;
+}
+
+/*========== STUDENT STUDY SECTION ==========*/
+
+.cus-video-area{
+
+}
+.portlet.light.portlet-fit > .cus-std-study-portlet-title{
+    margin: 12px 28px 20px;
+}
+.portlet.light.portlet-fit > .cus-mb-portlet-title{
+    margin: 12px 10px 5px !important;
+}
+.cus-chapter-caption{
+    padding: 5px 0;
+    color: #666666;
+}
+.cus-chapter-caption a{
+    color: #666666;
+}
+.portlet.light.portlet-fit > .portlet-body.cus-play-list-body{
+    padding: 10px 0px 20px;
+}
+.mt-element-list .list-news.ext-1.mt-list-container ul > .cus-std-study-list-item{
+    overflow: hidden;
+    padding: 10px 5px;
+    border-bottom: 1px solid #f7f7f7;
+}
+.cus-std-study-list-thumb{
+    margin-right: 5px;
+}
+.mt-element-list .list-news.ext-1 .list-thumb{
+    height: auto;
+}
+.cus-std-study-list-contnt{
+    float: left;
+    font-size: 13px;
+}
+.cus-std-study-list-contnt p{
+    width: 167px;
+    margin-bottom: 0;
+    color: #3e4b5b;
+}
+.cus-std-study-list-datetime{
+    float: right;
+    margin-right: 10px;
+}
+.mt-element-list .list-news.ext-1.mt-list-container ul >
+.mt-list-item:hover {
+    background: #f7f7f7;
+}
+.mt-element-list .list-news.ext-1.mt-list-container ul >
+.mt-list-item.active{
+    background: rgba(43, 54, 67, 0.94);
+}
+.mt-element-list .list-news.ext-1.mt-list-container ul >
+.mt-list-item.active a, .mt-element-list .list-news.ext-1.mt-list-container ul >
+.mt-list-item.active p{
+    color: #f9f9f9;
+}
+.cus-height{
+    height: 315px;
+}
+.chapter-list-item-bottom{
+    overflow: hidden;
+    margin: auto;
+}
+.chapter-practice-section{
+    background: #34a949;
+    border-radius: 3px;
+}
+.chapter-practice-section:hover{
+    background: #3ec055;
+}
+.chapter-exam-section{
+    background: #34a949;
+    border-radius: 3px;
+}
+.chapter-exam-section:hover{
+    background: #3ec055;
+}
+.chapter-practice-section{
+    margin: 0 10px 10px 0;
+}
+.chapter-practice-section a, .chapter-exam-section a{
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+}
+.cus-notes-body{
+    overflow:hidden
+}
+.cus-notes-body img{
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.chapter-download-btn{
+    margin-bottom: 5px;
+    padding: 10px 0;
+    background: #34a949;
+    border: #34a949;
+}
+.chapter-download-btn:hover, .chapter-download-btn:focus, .chapter-download-btn:active{
+    background: #3ec055;
+    border: #3ec055;
+}
+.chapter-exam-btn{
+    margin-bottom: 15px;
+    padding: 10px 0;
+    background: #34a949;
+    border: #34a949;
+}
+.chapter-exam-btn:hover, .chapter-exam-btn:focus, .chapter-exam-btn:active{
+    background: #3ec055;
+    border: #3ec055;
+}
+.play-list-button .btn-primary:active:focus{
+    background: #3ec055;
+    border: #3ec055;
+}
+
+
+/*========== STUDENT EXAM SECTION ==========*/
+
+.cus-xm-submit-btn{
+    width: 25%;
+    margin: 50px auto 30px;
+    text-align: center;
+}
+.cus-xm-submit-btn a, .cus-mcq-submit-btn a, .cus-mcq-remainder-btn a{
+    background: #34a949;
+    border-radius: 3px;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+}
+.cus-xm-submit-btn a:hover, .cus-mcq-submit-btn a:hover, .cus-mcq-remainder-btn a:hover{
+    background: #3ec055;
+}
+
+.cus-xm-btn-wrapper{
+    text-align: center;
+}
+.cus-xm-start-btn, .cus-xm-cancel-btn{
+    width: 22%;
+    padding: 10px;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+.cus-xm-start-btn{
+    background: #34a949;
+    border: 1px solid #198a2d;
+}
+.cus-xm-start-btn:hover{
+    background: #3ec055;
+    border: 1px solid #1d9c34;
+}
+.cus-xm-cancel-btn{
+    background: #d9534f;
+    border: 1px solid #d9534f;
+}
+.cus-xm-cancel-btn:hover{
+    background: #c9302c;
+    border: 1px solid #c12e2a;
+}
+
+/*========== STUDENT MCQ SECTION ==========*/
+
+.cus-mcq-xm-body{
+    padding-left: 5%;
+}
+.cus-mcq-xm{
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+.cus-mcq-xm-timer{
+
+}
+.cus-exam-descriptive{
+    padding: 0 20px;
+}
+.cus-descriptive-summery{
+    /*margin: 20px 0;*/
+    padding: 20px 30px 5px;
+    border: 1px solid #a1a1a1;
+}
+.cus-descriptive-summery textarea{
+    width: 100%;
+    border: none;
+    color: #5d5e5e;
+    font-weight: 300;
+    letter-spacing: 0.07em;
+    line-height: 1.6em;
+}
+.cus-std-study-mcq{
+    overflow: hidden;
+}
+.cus-mcq-submit-btn {
+    margin: 20px auto 30px;
+    text-align: center;
+}
+.cus-mcq-submit-btn a{
+    padding: 15px 27%;
+}
+.cus-mcq-que-num{
+    margin-top: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+.cus-mcq-ans-wrapper{
+
+}
+.cus-mcq-ans-body{
+    margin: 10px 0;
+}
+.cus-mcq-ans-body input[type="checkbox"],
+.cus-mcq-ans-body input[type="radio"] {
+    margin-right: 10px;
+}
+.cus-mcq-ans-term{
+    display: block;
+    margin: 10px;
+    padding-left: 15px;
+    font-weight: 300;
+    text-indent: 15px;
+}
+
+/*========== STUDENT MCQ RESULT SECTION ==========*/
+
+.cus-mcq-result-body, .cus-congratulations-body{
+    border: 1px solid #acacac;
+    margin: 20px 0;
+    text-align: justify;
+}
+.cus-mcq-result-body{
+    padding: 30px;
+}
+.cus-mcq-remainder{
+    text-align: center;
+}
+.cus-mcq-remainder h2{
+    font-size: 48px;
+}
+.cus-mcq-remainder p{
+    margin: 0;
+    font-size: 28px;
+    font-weight: 300;
+}
+.cus-mcq-remainder img{
+    display: inline-block;
+    max-width: 16%;
+    height: auto;
+}
+.cus-mcq-remainder-score{
+    margin-top: 20px;
+}
+.cus-mcq-remainder-btn{
+    margin: 20px auto 30px;
+    text-align: center;
+}
+
+/*========== STUDENT EXAM STATUS SECTION ==========*/
+
+.cus-exam-status-body{
+    padding: 0 2%;
+}
+.cus-exam-status-body table tr td,
+.cus-top-performers-body table tr td{
+    padding-bottom: 20px;
+}
+.cus-exam-status-body p{
+    margin-bottom: 0;
+}
+
+/*========== STUDENT CONGRATULATION SECTION ==========*/
+
+.cus-congra-wish{
+    overflow: hidden;
+    width: 100%;
+}
+.cus-congra-wish img{
+    float: left;
+    margin-right: 30px;
+}
+.cus-congra-wish h2{
+    font-size: 42px;
+    font-weight: 700;
+}
+
+/*========== FINISHED TIME SECTION ==========*/
+
+.cus-finis-time-portlet{
+    padding: 0px 20px;
+}
+.cus-finis-time img {
+    float: left;
+    margin-right: 10px;
+}
+
+/*========== TIME LEFT SECTION ==========*/
+
+.cus-time-left-img{
+    margin: auto;
+    width: 4%;
+}
+.cus-time-left-contnt{
+    margin-top: 30px;
+    text-align: center;
+}
+.cus-time-left-contnt h2{
+    margin: 10px 0px;
+    font-size: 36px;
+}
+
+/*========== COMMON CODE SECTION ==========*/
+
+.img-responsive{
+    max-width: 100% !important;
+}
+.table > tbody > tr > td{
+    vertical-align: middle;
+}
+
+/***** Attendance And Marks Section *****/
+
+.form-box-wrapper{
+    margin: auto;
+}
+.cus-form-control{
+    height: 34px;
+    padding: 6px 12px;
+    background-color: #fff;
+    border: 1px solid #c2cad8;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+.cus-form-control:focus {
+    border-color: #93a1bb;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(147,161,187,.6);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(147,161,187,.6);
+
+}
+.form-check-box-wrapper{
+    width: 100%;
+    margin: auto;
+}
+.form-horizontal .text-align-left{
+    text-align: left;
+}
+pre code, table{
+    background-color: #fff;
+}
+.input-group .cus-attend-date{
+    width: 100%;
+    border-top-left-radius: 4px !important;
+    border-bottom-left-radius: 4px !important;
+}
+
+/*========== Student-Study-Second-Modal-Design  ==========*/
+
+.std-study-second-design-portlet-body{
+    padding: 0px 10px 20px;
+}
+.cus-well{
+    padding: 10px 20px;
+    background: #f9f9f9;
+    border: 1px solid #ede7e7 !important;
+    box-shadow: 0 0 10px 0px #e3e3e3 !important;
+    border-radius: 0px;
+}
+.cus-xm-descrip{
+    overflow: hidden;
+    background: #f9f9f9;
+    margin: 0 10px;
+    border: 1px solid #ede7e7 !important;
+    box-shadow: 0 0 10px 0px #e3e3e3 !important;
+}
+.cus-xm-descrip ul{
+    margin: 0;
+    list-style: none;
+}
+.cus-xm-descrip ul li{
+    margin-bottom: 5px;
+}
+.cus-xm-sub-code{
+
+}
+.cus-xm-sub-code-num{
+
+}
+.cus-second-design-btn{
+    margin: 15px 20px 0px 0px;
+    background: #34a949;
+    border: 1px solid #0cad29;
+}
+.cus-second-design-btn:hover{
+    background: #3ec055;
+    border: 1px solid #0cad29;
+}
+
+/***** Student Exam Status Third Design *****/
+
+.xm-3rd-portlet-title{
+    background: RGBA(62, 75, 91, 0.79);
+    padding: 10px 20px;
+    color: #f9f9f9;
+}
+.xm-3rd-portlet-title span{
+    margin-right: 0;
+    font-size: 13px;
+}
+.xm-3rd-doc-body{
+    margin-bottom: 25px;
+    padding: 0 20px;
+}
+.xm-3rd-doc-body p{
+    margin: 10px 0 8px;
+    padding: 0 0 10px;
+}
+.cus-3rd-hr{
+    margin: 20px;
+}
+.cus-3rd-btn{
+    margin: 5px 20px 25px;
+    background: rgb(52, 169, 73) none repeat scroll 0% 0%;
+    border-radius: 3px;
+    color: #ffffff;
+}
+.cus-3rd-btn:hover{
+    color: #ffffff;
+    background: #3EC055;
+}
+.xm-3rd-form-control{
+    width: auto;
+    display: inline-block;
+}
+
+/*========== SCHOOL INFO SECTION ==========*/
+
+.portlet.light.portlet-fit > .cus-info-portlet-body{
+    padding: 27px;
+}
+.school-status-body{
+    overflow: hidden;
+}
+.school-name{
+
+}
+.school-name img{
+    margin: 10px 25px 10px 10px;
+    border: 2px solid rgba(24, 23, 23, 0);
+    box-shadow: 0 5px 5px rgba(42, 38, 38, 0.23);
+}
+.school-description-wrapper ul{
+    margin: 0px;
+    list-style: none;
+}
+.school-descrip-body{
+    overflow: hidden;
+    position: relative;
+}
+.descrip-title{
+    margin: 5px
+}
+
+.school-descrip-body blockquote {
+    width: 85%;
+    padding: 10px 30px;
+    margin: 10px auto;
+    font-family: 'Sniglet', cursive;
+    font-size: 15.5px;
+    border-left: 5px solid #dddddd;
+}
+/* .school-descrip-body blockquote::before{
+    content: "\201C";
+    font-family: Georgia, serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #999;
+    position: absolute;
+    left: 75px;
+    top: 13px;
+} */
+
+.info-type, .info-separator, .info-type-property{
+    font-size: 17px;
+}
+.info-separator1{
+    margin: 0px 30px 0 140px;
+}
+.info-separator2{
+    margin: 0px 30px 0 90px;
+}
+.info-separator3{
+    margin: 0px 30px 0 47px;
+}
+.info-separator4{
+    margin: 0px 30px 0 86px;
+}
+.class-list-section {
+    overflow: hidden;
+}
+.cus-class-btn-stl{
+    margin-bottom: 20px;
+    background: rgb(226, 226, 226) none repeat scroll 0% 0%;
+    border: 1px solid rgb(182, 179, 179);
+    border-radius: 3px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.7s ease-in 0s;
+}
+.cus-class-btn-stl:hover, .cus-class-btn-stl.active{
+    background: #4e6275;
+}
+.cus-class-btn-stl a{
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(137, 137, 137);
+    transition: all 0.7s;
+}
+.cus-class-btn-stl:hover a, .cus-class-btn-stl.active a{
+    color: #f8f9fa;
+}
+.cus-top-performers-body{
+    overflow: hidden;
+}
+.cus-top-performers-body table > tbody > tr > td{
+    vertical-align: top;
+    border-top: none;
+}
+.performers-details-wrapper{
+    width: 100%;
+}
+.performers-details{
+    overflow: hidden;
+    margin-bottom: 5px;
+}
+.cus-top-performers-body ul li{
+    overflow: hidden;
+}
+.exam-schedule-wrapper{
+    overflow: hidden;
+}
+.exam-schedule-bar-month{
+    padding-left: 0;
+    padding-right: 0;
+    border-left: 1px solid #ddd;
+}
+.sub-schedule-1, .sub-schedule-2, .sub-schedule-3, .sub-schedule-4, .sub-schedule-5,
+.sub-schedule-6, .sub-schedule-7, .sub-schedule-8, .sub-schedule-9, .sub-schedule-10{
+    margin: 10px 0;
+    text-align: right;
+}
+.sub-schedule-bar1, .sub-schedule-bar2, .sub-schedule-bar3, .sub-schedule-bar4, .sub-schedule-bar5,
+.sub-schedule-bar6, .sub-schedule-bar7, .sub-schedule-bar8, .sub-schedule-bar9, .sub-schedule-bar10{
+    position: relative;
+    padding: 2px 0;
+    border-bottom: 1px solid #ddd;
+}
+.doted{
+    position: absolute;
+    background: #104572;
+}
+.bash-top{
+
+}
+.bash-bottom{
+    margin: 30px 0px 15px;
+    border-bottom: 1px solid rgb(221, 221, 221);
+}
+.cus-col-sm-1{
+    width: 10%;
+    min-height: 1px;
+    float: left;
+    text-align: center;
+}
+.info-bar-type{
+    text-align: center;
+}
+.cus-col-border-right{
+    border-right: 1px solid #ddd;
+}
+
+/*========== SCHOOL HOME SECTION ==========*/
+
+.home-form-section{
+    margin: 0 auto 10px;
+}
+.home-attnd-separator{
+    margin-right: 5px;
+}
+
+/*===== Result Summary Bar Chart =====*/
+
+.sub-sch-home-bar1, .sub-sch-home-bar2, .sub-sch-home-bar3, .sub-sch-home-bar4, .sub-sch-home-bar5,
+.sub-sch-home-bar6, .sub-sch-home-bar7, .sub-sch-home-bar8, .sub-sch-home-bar9, .sub-sch-home-bar10{
+    position: relative;
+    padding: 2px 0;
+}
+.barchart-bottom-1, .barchart-bottom-2, .barchart-bottom-3, .barchart-bottom-4, .barchart-bottom-5,
+.barchart-bottom-6, .barchart-bottom-7, .barchart-bottom-8, .barchart-bottom-9, .barchart-bottom-10{
+    position: absolute;
+    height: 15px;
+}
+.barchart-bottom-1, .barchart-bottom-2, .barchart-bottom-3, .barchart-bottom-5, .barchart-bottom-7,
+.barchart-bottom-9{
+    background: #34a949;
+}
+.barchart-bottom-4, .barchart-bottom-6, .barchart-bottom-8, .barchart-bottom-10{
+    background: #e74242;
+}
+.barchart-average-1, .barchart-average-2, .barchart-average-3, .barchart-average-4, .barchart-average-5,
+.barchart-average-6, .barchart-average-7, .barchart-average-8, .barchart-average-9, .barchart-average-10{
+    position: absolute;
+    background: #febc12;
+    height: 15px;
+    z-index: 9999;
+}
+.barchart-top-1, .barchart-top-2, .barchart-top-3, .barchart-top-4, .barchart-top-5,
+.barchart-top-6, .barchart-top-7, .barchart-top-8, .barchart-top-9, .barchart-top-10{
+    position: absolute;
+    background: #114572;
+    height: 15px;
+    z-index: 1;
+}
+.xm-schedule-bar-sch-home{
+    padding-left: 0;
+    padding-right: 0;
+    border-left: 1px solid #ddd;
+}
+.sch-home-percent-1, .sch-home-percent-2, .sch-home-percent-3, .sch-home-percent-4, .sch-home-percent-5,
+.sch-home-percent-6, .sch-home-percent-7, .sch-home-percent-8, .sch-home-percent-9, .sch-home-percent-10{
+    position: absolute;
+}
+
+/*========== STUDENT STUDY side bar profile img SECTION ==========*/
+
+.result-top-detail-wrapper{
+    overflow: hidden;
+    padding: 20px 0;
+}
+.result-std-detail-wrapper{
+
+}
+.result-std-detail-wrapper ul{
+    margin: 0px;
+    padding: 10px;
+    list-style: none;
+}
+.result-std-detail-wrapper ul li{
+    margin-bottom: 5px;
+}
+
+.result-std-detail-wrapper ul li .result-std-detail span{
+    font-size: 18px;
+}
+.result-std-detail .result-detail-Colon1{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+.result-std-detail .result-detail-Colon2{
+    margin-left: 34px;
+    margin-right: 20px;
+}
+.result-std-detail .result-detail-Colon3{
+    margin-left: 49px;
+    margin-right: 20px;
+}
+.result-std-detail .result-detail-Colon4{
+    margin-left: 25px;
+    margin-right: 20px;
+}
+.result-wishes-board{
+    padding: 20px 0;
+}
+.result-wishes-board img{
+    margin-right: 15px;
+}
+.result-wishes-board .result-wish-num{
+    color: #3176bb;
+    font-size: 92px;
+    font-weight: 500;
+}
+.result-wishes-board .result-wish-pos{
+    color: #3176bb;
+    font-size: 32px;
+    vertical-align: 40px;
+}
+.result-wishes-board .result-wish-per{
+    margin-left: -30px;
+    color: #3176bb;
+    font-size: 36px;
+}
+
+/*========== student-mcq-result-part ==========*/
+
+.cus-mcq-result-part-page-inner-content-wrapper{
+    margin-top: 100px;
+}
+.std-mcq-result-part-page-header{
+    height: 100px;
+    min-height: 100px;
+}
+.std-mcq-result-part-logo{
+    background: #000;
+    padding: 27.5px 0px;
+    text-align: center;
+}
+.std-mcq-result-part-logo img{
+    width: 130px;
+    height: 45px;
+}
+.mcq-result-top-scorebar p{
+    color: #fff;
+    text-align: center;
+    margin: 10px;
+}
+.page-header.navbar .mcq-result-part-top-menu{
+    margin: 0;
+}
+.mcq-result-part-top-menu ul{
+    margin: 0 30px 0 0;
+    padding: 0;
+    list-style: none;
+}
+.mcq-result-part-top-menu ul li p{
+    color: #FAFAFA;
+}
+.cus-descriptive-summery textarea{
+    width: 100%;
+    border: none;
+}
+.cus-mcq-timer-body{
+    width: 300px;
+    height: 300px;
+    /*margin: 10px 0;*/
+    /*padding: 40px 29px;*/
+    position: fixed;
+    right: 70px;
+    z-index: 1030;
+}
+.std-mcq-result-part-submit-wrapper{
+    overflow: hidden;
+    margin-bottom: 8px;
+}
+.mcq-result-part-btn-wrapper{
+    margin-bottom: 10px;
+}
+.mcq-result-part-btn{
+    background: #34a949;
+    color: #FFFFFF;
+    padding: 10px;
+}
+.mcq-result-part-btn:hover{
+    background: #3ec055;
+    color: #FFFFFF;
+}
+
+/*========== STUDENT STUDY side bar profile img SECTION ==========*/
+
+.sidebar2-profile-inner-wrapper{
+    padding: 0px 10px 0 30px;
+}
+.sidebar2-portfolio{
+    margin: 20px 0;
+}
+.cus2-pro-img{
+    width: 120px;
+    height: 120px;
+}
+.cus2-sidebar-portfolio-title{
+    color: #fff;
+    font-size: 14px;
+}
+.cus2-sidebar-portfolio-name{
+    margin: 10px 0 0;
+    color: #fff;
+    font-size: 18px;
+}
+.cus2-sidebar-portfolio-status{
+    margin: 0;
+    color: #8babbb;
+    font-size: 12px;
+}
