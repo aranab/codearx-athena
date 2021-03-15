@@ -5,8 +5,7 @@
 	"license": "GNU GPLv2",
 	"type": "project",
 	"require": {
-		"laravel/framework": "4.2.*",
-		"zizaco/entrust": "1.2.*@dev"
+		"laravel/framework": "6.20.14"
 	},
 	"autoload": {
 		"classmap": [
